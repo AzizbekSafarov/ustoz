@@ -1,0 +1,329 @@
+{
+  "checked_date": "2026-10-09",
+  "statistics_observed_at_approx": "2026-10-09T19:10:00+05:00",
+  "statistics_source": "https://ustoz.ai/tanlov/dashboard",
+  "counts_are": "applications; not approved participants or regional attendees",
+  "certificate_warning": "automatic applicant-name/certificate-owner-name matching warning; not a disqualification decision",
+  "totals": {
+    "jami_arizalar": 20999,
+    "veb_arizalar": 6010,
+    "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 7909,
+    "veb_arizalarda_ism_sertifikat_ogohlantirishi": 2573
+  },
+  "directions": {
+    "web": 6010,
+    "design": 7996,
+    "mobilography": 6993
+  },
+  "samarqand": {
+    "applications": 1645,
+    "web": 451,
+    "web_name_warnings": 194,
+    "web_without_name_warning": 257,
+    "web_courses": {
+      "no_code_tilda": 200,
+      "ai_apps": 165,
+      "mobile_apps": 86
+    },
+    "urgut_latin_substring_applications": 17,
+    "urgut_latin_substring_web": 8
+  },
+  "files": [
+    {
+      "path": "sources/34-19-q-q.pdf",
+      "bytes": 16719146,
+      "pages": 18,
+      "sha256": "e204c014af0427517abaaec53a423ee2ed70de628d6788c8d783d8abbbf5853d",
+      "status": "local signed decision; schedule and prizes require later announcements"
+    },
+    {
+      "path": "sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf",
+      "bytes": 312439,
+      "pages": 11,
+      "sha256": "d783492c9729875ac49f09ad574f5eaf2d1f08a2e3a9c2951540f91dddf8cb1e",
+      "status": "draft submitted for organizer approval"
+    },
+    {
+      "path": "sources/ustoz-ai-saytdagi-nizom.pdf",
+      "bytes": 216735,
+      "pages": 10,
+      "sha256": "b96018da0184cbabc5cd09a1864abcd895b68441a9f503b5bec6ff8ff71f378e",
+      "status": "public website version, differs from local signed decision"
+    }
+  ],
+  "regional_applications": [
+    {
+      "hudud": "Andijon viloyati",
+      "jami_arizalar": 441,
+      "veb_arizalar": 126,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 108,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 23
+    },
+    {
+      "hudud": "Buxoro viloyati",
+      "jami_arizalar": 1785,
+      "veb_arizalar": 464,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 585,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 160
+    },
+    {
+      "hudud": "Farg'ona viloyati",
+      "jami_arizalar": 2553,
+      "veb_arizalar": 704,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 650,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 194
+    },
+    {
+      "hudud": "Jizzax viloyati",
+      "jami_arizalar": 1761,
+      "veb_arizalar": 543,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 494,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 145
+    },
+    {
+      "hudud": "Namangan viloyati",
+      "jami_arizalar": 295,
+      "veb_arizalar": 100,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 125,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 45
+    },
+    {
+      "hudud": "Navoiy viloyati",
+      "jami_arizalar": 649,
+      "veb_arizalar": 128,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 113,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 25
+    },
+    {
+      "hudud": "Qashqadaryo viloyati",
+      "jami_arizalar": 398,
+      "veb_arizalar": 102,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 142,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 39
+    },
+    {
+      "hudud": "Qoraqalpog'iston Respublikasi",
+      "jami_arizalar": 2007,
+      "veb_arizalar": 537,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 575,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 188
+    },
+    {
+      "hudud": "Samarqand viloyati",
+      "jami_arizalar": 1645,
+      "veb_arizalar": 451,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 599,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 194
+    },
+    {
+      "hudud": "Sirdaryo viloyati",
+      "jami_arizalar": 402,
+      "veb_arizalar": 141,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 134,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 61
+    },
+    {
+      "hudud": "Surxondaryo viloyati",
+      "jami_arizalar": 2618,
+      "veb_arizalar": 573,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 1094,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 297
+    },
+    {
+      "hudud": "Toshkent shahri",
+      "jami_arizalar": 3501,
+      "veb_arizalar": 1298,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 2454,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 959
+    },
+    {
+      "hudud": "Toshkent viloyati",
+      "jami_arizalar": 1301,
+      "veb_arizalar": 426,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 279,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 106
+    },
+    {
+      "hudud": "Xorazm viloyati",
+      "jami_arizalar": 1643,
+      "veb_arizalar": 417,
+      "barcha_arizalarda_ism_sertifikat_ogohlantirishi": 557,
+      "veb_arizalarda_ism_sertifikat_ogohlantirishi": 137
+    }
+  ],
+  "competition": {
+    "name": "Zamonaviy kasblar",
+    "framework": "Besh tashabbus olimpiadasi",
+    "focus": "Eng yaxshi veb-sayt",
+    "other_directions": [
+      "Eng yaxshi grafik dizayn",
+      "Eng yaxshi mobilografiya ishi"
+    ],
+    "stages": [
+      "tuman/shahar",
+      "hududiy/viloyat",
+      "respublika"
+    ],
+    "age_min": 14,
+    "age_max": 30,
+    "certificate_courses_web": [
+      "Saytlar yasash (No-Code, Tilda)",
+      "AI orqali dasturlar yasash",
+      "Mobil ilova yasash"
+    ],
+    "one_direction_only": true,
+    "participation_fee": 0
+  },
+  "criteria": [
+    {
+      "name": "Sifat va funksionallik",
+      "max_score": 30
+    },
+    {
+      "name": "Dolzarblik va mazmun",
+      "max_score": 20
+    },
+    {
+      "name": "Dizayn va UX/UI",
+      "max_score": 10
+    },
+    {
+      "name": "Taqdimot",
+      "max_score": 10
+    },
+    {
+      "name": "Zamonaviy texnologiyalar",
+      "max_score": 20
+    },
+    {
+      "name": "Kreativlik va originallik",
+      "max_score": 10
+    }
+  ],
+  "subcriteria_draft_scores": [
+    10,
+    8,
+    6,
+    6,
+    5,
+    5,
+    5,
+    5,
+    4,
+    3,
+    3,
+    3,
+    4,
+    3,
+    6,
+    6,
+    4,
+    4,
+    4,
+    3,
+    3
+  ],
+  "event": {
+    "reported_date": "2026-10-13",
+    "reported_city": "Samarqand",
+    "date_source": "participant report; precise official venue/time not found in open search",
+    "venue": null,
+    "start_time": null,
+    "build_minutes_confirmed": null,
+    "regional_build_minutes_draft_approx": 120,
+    "defense_minutes": 15,
+    "defense_split_minutes": [
+      5,
+      5,
+      5
+    ],
+    "account_setup_minutes_video_transcript": 15
+  },
+  "prize": {
+    "announced_cars": 3,
+    "announced_model": "Changan Uni-E",
+    "announcement_date": "2026-09-28",
+    "source": "https://t.me/kasb_edu/2763",
+    "regional_car_each_region_confirmed": false,
+    "old_final_cash_mln_uzs": [
+      100,
+      75,
+      50
+    ],
+    "old_cash_is_not_confirmed_additional_to_car": true
+  },
+  "conflicts": [
+    {
+      "topic": "tie_break_after_functionality",
+      "local_signed": "modern_technology",
+      "website_pdf": "creativity"
+    },
+    {
+      "topic": "live_edit_in_defense",
+      "local_signed": "expert may require; failure excludes work",
+      "website_pdf": "sentence omitted",
+      "criteria_draft": "editing prohibited"
+    },
+    {
+      "topic": "account_access",
+      "video_transcript": "sign into own account",
+      "criteria_draft": "organizer equal account/model/limits"
+    }
+  ],
+  "unknown": [
+    "Samarqand venue",
+    "Samarqand start time",
+    "confirmed build duration",
+    "updated final date",
+    "actual regional participant roster",
+    "final technical criteria approval",
+    "account/model/limit policy",
+    "submission channel",
+    "updated second/third place rewards",
+    "vehicle trim/handover arrangements"
+  ],
+  "api": {
+    "base": "https://api.ustozaibot.uz/api/v1",
+    "observed_frontend_routes": [
+      "POST /applications",
+      "GET /applications",
+      "GET /applications/export"
+    ],
+    "registration_submitted_in_research": false,
+    "private_applicant_contacts_exported": false
+  },
+  "sources": [
+    {
+      "url": "https://gov.uz/oz/wcu/news/view/225579",
+      "status": "official car announcement"
+    },
+    {
+      "url": "https://t.me/kasb_edu/2763",
+      "status": "official model announcement"
+    },
+    {
+      "url": "https://t.me/ustozai/3357",
+      "status": "official video page; oral text supplied by participant"
+    },
+    {
+      "url": "https://gov.uz/oz/yaypan/news/view/229498",
+      "status": "official October district-stage report"
+    },
+    {
+      "url": "https://ustoz.ai/tanlov/nizom.pdf",
+      "status": "website PDF differs from local signed document"
+    },
+    {
+      "url": "https://ustoz.ai/tanlov/dashboard",
+      "status": "aggregate snapshot only"
+    },
+    {
+      "url": "https://antigravity.google/docs/faq",
+      "status": "official service conditions"
+    },
+    {
+      "url": "https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan",
+      "status": "official Codex access and limits"
+    }
+  ]
+}
