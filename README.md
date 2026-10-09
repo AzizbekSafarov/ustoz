@@ -2,6 +2,8 @@
 
 Mahalliy fayllar va rasmiy internet manbalaridan yig‘ilgan ma’lumotlar. Yangilangan: **2026-10-09**. Yo‘nalish: “Eng yaxshi veb-sayt”, “Zamonaviy kasblar”. Qisqa izohlar bilan birga asl manbalar va to‘liq o‘qilgan matnlar saqlangan.
 
+Asosiy sahifa: **https://azizbeksafarov.github.io/ustoz/**. GitHub manzili: **https://github.com/AzizbekSafarov/ustoz**.
+
 **Barcha ma’lumotni bitta faylda o‘qish: [ai.md](ai.md).** Brauzer uchun [to‘liq o‘qish sahifasi](ai.html). AIga avval shu to‘liq kontekst havolasini berish mumkin. Qisqa kirish [00-START-HERE.md](00-START-HERE.md) da.
 
 ## Fayllar

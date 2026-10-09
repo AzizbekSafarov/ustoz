@@ -3,6 +3,11 @@
   "entry": "ai.md",
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 45,
+      "sha256": "8df22cc43d34bc5cf0e2ae4d1cd11a28ad8073b0e53f3ad51d1d693516d12b32"
+    },
+    {
       "path": ".nojekyll",
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -14,13 +19,13 @@
     },
     {
       "path": "01-RESEARCH.md",
-      "bytes": 23657,
-      "sha256": "80a8fd49f2d3ef8690ad9e25d01024c0fc6b159d2ebca88d360e5880325d15b8"
+      "bytes": 23402,
+      "sha256": "b90ac82a661c55cfc840e44b0089e2faf1a3b6741662da200cb9069b31f359e9"
     },
     {
       "path": "02-WORKFLOW.md",
-      "bytes": 15394,
-      "sha256": "1b5ffb954b0aed4d618afc6c439d4b4358bdda30aea883068a5dfa9bd39c0dda"
+      "bytes": 15172,
+      "sha256": "43f5a512e00b90517c51bbacf8bf63d39b6d639e56cdcbcce3851c8042988c13"
     },
     {
       "path": "03-STATISTICS.csv",
@@ -44,18 +49,18 @@
     },
     {
       "path": "07-FACTS.json",
-      "bytes": 9452,
-      "sha256": "4c1b87393a778e2c487693187f38686e6bb15a053c9bc80d716172ee37bebeb1"
+      "bytes": 9123,
+      "sha256": "534f69d7dd7f143498d5dcc72b2c7954c1831bb30eb37b1fa33de2757d4cd4de"
     },
     {
       "path": "ai.html",
-      "bytes": 176890,
-      "sha256": "bdb2d5816c7b7fd8c0b4513b54eb1bce976bf408fee011abc8abca05576fc5ca"
+      "bytes": 174410,
+      "sha256": "d61b21b1b8682ccd5d4aaa39164583e328a5d3157676ee50795e495457afcb44"
     },
     {
       "path": "ai.md",
-      "bytes": 169760,
-      "sha256": "b3b798bc5ccccebf1676c2d99d481219da6640ba31d3933394a59b80ce7b4260"
+      "bytes": 167280,
+      "sha256": "2fa3b27594c24c2e93a59467e0aad2a71c9f2835e8d25eb6901da03f6c70e9c9"
     },
     {
       "path": "index.html",
@@ -64,13 +69,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3662,
-      "sha256": "ff327628d48e26ce5ef41e42bc555c421728b907f6f1f99726f0b7dc0775c1af"
+      "bytes": 3784,
+      "sha256": "2359ac507e785bd28b1ea3689d59660f47e946a18142863f84f592950d929496"
     },
     {
       "path": "sources/34-19-q-q-ocr.txt",
-      "bytes": 39186,
-      "sha256": "0323d126f4a4fad63d80e149dcb4d0cb1cd8729405416ab3311b2e3e7fb9f748"
+      "bytes": 38310,
+      "sha256": "a7a9fb23df4d91d8787c4940b9ee69535cd00a88b67fcaafe376ed83353902f4"
     },
     {
       "path": "sources/34-19-q-q.pdf",
@@ -84,8 +89,8 @@
     },
     {
       "path": "sources/sayt-nizomi-text.txt",
-      "bytes": 22505,
-      "sha256": "488080f8b0bbf64929e9719db80a3184f2a2dadaa92cce933fe1b9684d6bcab0"
+      "bytes": 22477,
+      "sha256": "61cfcffb6c79fa6c897e5770a5f5dc6834129de131a2ad1548e6f4700380b9c8"
     },
     {
       "path": "sources/tashkilotchilar.png",
@@ -99,8 +104,8 @@
     },
     {
       "path": "sources/veb-mezonlari-text.txt",
-      "bytes": 38627,
-      "sha256": "afcba23e3654fa187cb1115859fec7df28c015fcbdd239defcb44d950c6bd3b1"
+      "bytes": 38153,
+      "sha256": "9c5690d6db23244b94940992ab52b29d8fddc5c5502feeebd79e5329951d8d47"
     }
   ]
 }
