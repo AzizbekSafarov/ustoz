@@ -57,3 +57,8 @@ Rasmiy internet manbalari:
 - https://gov.uz/oz/yaypan/news/view/229498 — 7-oktabr, tuman bosqichi haqidagi xabar.
 
 Havolani o‘qish AIga doimiy xotira yoki barcha fayllarga avtomatik kirish bermaydi. Internetga kirish imkoniyati bo‘lmasa, qisqa matn yoki fayl bevosita chatga beriladi. Tanlov kuni tashqi tayyorgarlik materiallaridan foydalanish joydagi reglamentga bog‘liq.
+
+
+## Nizomlarni to‘liq o‘qish
+
+39 sahifalik uch hujjatning qisqartirilmagan matni: https://azizbeksafarov.github.io/ustoz/nizom.md . Brauzer uchun: https://azizbeksafarov.github.io/ustoz/nizom.html . 2026-10-18 kuni matnga tayyorlangan; tadqiqot sanasi 2026-10-09. Imzoli nusxa, saytdagi tahrir va tasdiqqa taqdim etilgan loyiha alohida saqlangan.

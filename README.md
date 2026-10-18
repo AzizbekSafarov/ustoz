@@ -6,6 +6,18 @@ Asosiy sahifa: **https://azizbeksafarov.github.io/ustoz/**. GitHub manzili: **ht
 
 **Barcha ma’lumotni bitta faylda o‘qish: [ai.md](ai.md).** Brauzer uchun [to‘liq o‘qish sahifasi](ai.html). AIga avval shu to‘liq kontekst havolasini berish mumkin. Qisqa kirish [00-START-HERE.md](00-START-HERE.md) da.
 
+## Nizomlarning to‘liq matni
+
+Uchta hujjat, jami **39 sahifa**, asl o‘zbek tilida va qisqartirilmagan holda:
+
+- [Barchasi — brauzerda](https://azizbeksafarov.github.io/ustoz/nizom.html).
+- [Barchasi — AI uchun Markdown](https://azizbeksafarov.github.io/ustoz/nizom.md) yoki [oddiy TXT](https://azizbeksafarov.github.io/ustoz/nizom.txt).
+- [Imzoli qaror va barcha ilovalar](transcripts/qaror.md), [saytdagi nizom](transcripts/sayt.md), [mezonlar loyihasi](transcripts/mezon.md).
+
+Matnga tayyorlangan sana: 2026-10-18. Tadqiqot 2026-10-09 holatida qoladi. Imzoli skanning jadvallari asl tasvirdan tiklandi; muhr, imzo va noaniq qo‘lyozma rekvizitlari PDFda saqlangan. Asl PDF va dastlabki OCR matnlari o‘zgartirilmagan. Loyiha tasdiqlangan qoida sifatida talqin qilinmaydi.
+
+Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_transcripts.py`. To‘liq matnlar `ai.md` ichiga ham kiritilgan.
+
 ## Fayllar
 
 - **00-START-HERE.md** — AI avval o‘qiydigan qisqa kontekst.

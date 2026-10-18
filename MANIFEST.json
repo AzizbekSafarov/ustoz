@@ -1,6 +1,8 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-18",
+  "research_as_of": "2026-10-09",
   "entry": "ai.md",
+  "regulations_entry": "nizom.md",
   "files": [
     {
       "path": ".gitattributes",
@@ -14,8 +16,8 @@
     },
     {
       "path": "00-START-HERE.md",
-      "bytes": 4829,
-      "sha256": "1881b3589ccfb0fa5df5595f4058588e86e3c4762d7d962ea48f51818a8030c3"
+      "bytes": 5181,
+      "sha256": "0a69fec89c60e2342efad5eecb2e990d0912d1d289cca91f6f33be0ba979f248"
     },
     {
       "path": "01-RESEARCH.md",
@@ -54,23 +56,43 @@
     },
     {
       "path": "ai.html",
-      "bytes": 174410,
-      "sha256": "d61b21b1b8682ccd5d4aaa39164583e328a5d3157676ee50795e495457afcb44"
+      "bytes": 193366,
+      "sha256": "5f4bc3a7a1c35c4420b2b70914b31c7146c09302b8c0db5f7e2be8adbbd7c9a0"
     },
     {
       "path": "ai.md",
-      "bytes": 167280,
-      "sha256": "2fa3b27594c24c2e93a59467e0aad2a71c9f2835e8d25eb6901da03f6c70e9c9"
+      "bytes": 185661,
+      "sha256": "5f4a92c55a2e7ed5aa808f847e7b345ef9d9682e32e6dbb117b408c51079cd36"
+    },
+    {
+      "path": "build_transcripts.py",
+      "bytes": 15418,
+      "sha256": "8238509c80bc5c6dd0fea8a16504a4668e64959a4357ccd50ac44536758e7268"
     },
     {
       "path": "index.html",
-      "bytes": 2264,
-      "sha256": "a731349a3a66c878c0568f32d19e91e736f67de0c2a00badc423f4d21909c226"
+      "bytes": 2951,
+      "sha256": "a8a8a0f46a0a18a8bc586579e8a590eb4a08f2645e7785afc5024f63651cc1cf"
+    },
+    {
+      "path": "nizom.html",
+      "bytes": 129093,
+      "sha256": "8f5e353e183f36b1609fc671af1356ed4c9c879a2a28a285cec1df85cb326e0a"
+    },
+    {
+      "path": "nizom.md",
+      "bytes": 117450,
+      "sha256": "68e54693230eee476ed67e94dfc536eae690fd9aa72205cdf36b862bac95395e"
+    },
+    {
+      "path": "nizom.txt",
+      "bytes": 116255,
+      "sha256": "bac383421815193e21448cfcc3f7ea3f5b55a2a7b5d3880e9c46a08299f3accc"
     },
     {
       "path": "README.md",
-      "bytes": 3784,
-      "sha256": "2359ac507e785bd28b1ea3689d59660f47e946a18142863f84f592950d929496"
+      "bytes": 4715,
+      "sha256": "95aef86844546f300efb3406320bb47bacae0cceee07fd796d92cb740c7eeb4d"
     },
     {
       "path": "sources/34-19-q-q-ocr.txt",
@@ -106,6 +128,61 @@
       "path": "sources/veb-mezonlari-text.txt",
       "bytes": 38153,
       "sha256": "9c5690d6db23244b94940992ab52b29d8fddc5c5502feeebd79e5329951d8d47"
+    },
+    {
+      "path": "transcripts/manifest.json",
+      "bytes": 3273,
+      "sha256": "7e6c8df713341faf1a31907bc297dcbbffb75227ab8faafb2d650d498534d159"
+    },
+    {
+      "path": "transcripts/mezon.html",
+      "bytes": 43434,
+      "sha256": "25ce4bf43b2ff0595a44334a91a1ad56a698e8f71599cb28bfb0feef979e80d7"
+    },
+    {
+      "path": "transcripts/mezon.md",
+      "bytes": 40615,
+      "sha256": "e58bec806f5c701f694426f09cf9453c27691d8c40a0cac56051eaa4f5ed579f"
+    },
+    {
+      "path": "transcripts/qaror-edits.json",
+      "bytes": 5351,
+      "sha256": "308c6b3fa64479957f9652b7f12585652e808ff20ed73c025b4ddd5030c2484e"
+    },
+    {
+      "path": "transcripts/qaror-tables.json",
+      "bytes": 12855,
+      "sha256": "4acd7d57e7d35dd01c9a0f12d4c42a2beed3f0e60db36d2349befb3f22fbfa8a"
+    },
+    {
+      "path": "transcripts/qaror.html",
+      "bytes": 52411,
+      "sha256": "6a27a22f5c63d6dc3b886bb58f24923250ca4336f65a773c1568e8f33d222fc6"
+    },
+    {
+      "path": "transcripts/qaror.md",
+      "bytes": 43773,
+      "sha256": "22f12399296c87a5a6c3d1dea7b53cd94564013caa52e451311c79d0c031e015"
+    },
+    {
+      "path": "transcripts/sayt-layout.json",
+      "bytes": 28876,
+      "sha256": "ebceea93717c1a26e576793898a0961713c6f3573dc9f6f109a5b1da8bd957b5"
+    },
+    {
+      "path": "transcripts/sayt.html",
+      "bytes": 33710,
+      "sha256": "9eb867974289b5e2956b654e8e996047ffa75908c095d8fdcfd436856e6e8cbd"
+    },
+    {
+      "path": "transcripts/sayt.md",
+      "bytes": 30998,
+      "sha256": "b81464dd462e34f59eb29986ae95ff69aec3fc6dd4af320b99250dd44f14afc4"
+    },
+    {
+      "path": "verify_transcripts.py",
+      "bytes": 4876,
+      "sha256": "50bbc9176ee9943824900b1553f41fa0ca416eff9da57d99f3b3adfdb9a89021"
     }
   ]
 }

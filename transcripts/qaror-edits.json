@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-18",
+  "description": "Readability corrections; table replacements are in qaror-tables.json. Source OCR and PDFs are unchanged.",
+  "edits": [
+    {
+      "page": 1,
+      "from": "IJst07, AI",
+      "to": "Ustoz AI",
+      "count": 1
+    },
+    {
+      "page": 1,
+      "from": "sertifikat Olgan",
+      "to": "sertifikat olgan",
+      "count": 3
+    },
+    {
+      "page": 1,
+      "from": "I. 2026-yilning",
+      "to": "1. 2026-yilning",
+      "count": 1
+    },
+    {
+      "page": 2,
+      "from": "ta'lim Olish",
+      "to": "ta'lim olish",
+      "count": 1
+    },
+    {
+      "page": 2,
+      "from": "qo' Ilab",
+      "to": "qo'llab",
+      "count": 1
+    },
+    {
+      "page": 2,
+      "from": "yoshlami",
+      "to": "yoshlarni",
+      "count": 1
+    },
+    {
+      "page": 2,
+      "from": "ishtirokchilami",
+      "to": "ishtirokchilarni",
+      "count": 1
+    },
+    {
+      "page": 2,
+      "from": "etishgajalb",
+      "to": "etishga jalb",
+      "count": 1
+    },
+    {
+      "page": 2,
+      "from": "oshirädi",
+      "to": "oshiradi",
+      "count": 1
+    },
+    {
+      "page": 3,
+      "from": "sertifikat Olgan",
+      "to": "sertifikat olgan",
+      "count": 1
+    },
+    {
+      "page": 3,
+      "from": "I O kun",
+      "to": "10 kun",
+      "count": 1
+    },
+    {
+      "page": 3,
+      "from": "O Qoraqalpog'iston",
+      "to": "f) Qoraqalpog'iston",
+      "count": 1
+    },
+    {
+      "page": 3,
+      "from": "choralami",
+      "to": "choralarni",
+      "count": 1
+    },
+    {
+      "page": 7,
+      "from": "qo' Ilab",
+      "to": "qo'llab",
+      "count": 1
+    },
+    {
+      "page": 9,
+      "from": "sertifikat Olgan",
+      "to": "sertifikat olgan",
+      "count": 3
+    },
+    {
+      "page": 9,
+      "from": "I-bob.",
+      "to": "1-bob.",
+      "count": 1
+    },
+    {
+      "page": 10,
+      "from": "amaliy iSh",
+      "to": "amaliy ish",
+      "count": 1
+    },
+    {
+      "page": 10,
+      "from": "suratga Olish",
+      "to": "suratga olish",
+      "count": 1
+    },
+    {
+      "page": 11,
+      "from": "g' olib",
+      "to": "g'olib",
+      "count": 1
+    },
+    {
+      "page": 11,
+      "from": "e' Ion",
+      "to": "e'lon",
+      "count": 1
+    },
+    {
+      "page": 13,
+      "from": "sertifikat Olgan",
+      "to": "sertifikat olgan",
+      "count": 1
+    },
+    {
+      "page": 13,
+      "from": "g' olib",
+      "to": "g'olib",
+      "count": 1
+    },
+    {
+      "page": 13,
+      "from": "e' Ion",
+      "to": "e'lon",
+      "count": 1
+    },
+    {
+      "page": 13,
+      "from": "o ' zgartirishlar",
+      "to": "o'zgartirishlar",
+      "count": 1
+    },
+    {
+      "page": 13,
+      "from": "161. Intellektual",
+      "to": "16¹. Intellektual",
+      "count": 1
+    },
+    {
+      "page": 13,
+      "from": "faqat I ta",
+      "to": "faqat 1 ta",
+      "count": 1
+    },
+    {
+      "page": 14,
+      "from": "Ust0zAIplatformasida",
+      "to": "Ustoz AI platformasida",
+      "count": 1
+    },
+    {
+      "page": 14,
+      "from": "sertifikat Olgan",
+      "to": "sertifikat olgan",
+      "count": 1
+    },
+    {
+      "page": 14,
+      "from": "savollarigajavob",
+      "to": "savollariga javob",
+      "count": 1
+    },
+    {
+      "page": 14,
+      "from": "shaxsanjavob",
+      "to": "shaxsan javob",
+      "count": 1
+    },
+    {
+      "page": 15,
+      "from": "sertifikat Olgan",
+      "to": "sertifikat olgan",
+      "count": 2
+    },
+    {
+      "page": 15,
+      "from": "suratga Olish",
+      "to": "suratga olish",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "suratga Olish",
+      "to": "suratga olish",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "g' olib",
+      "to": "g'olib",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "201. Tenglashgan",
+      "to": "20¹. Tenglashgan",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "(I-mezon)",
+      "to": "(1-mezon)",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "I-o'rin",
+      "to": "1-o'rin",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "3 iSh",
+      "to": "3 ish",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "iSh kuni",
+      "to": "ish kuni",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "IO kun",
+      "to": "10 kun",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "yordamidajonli",
+      "to": "yordamida jonli",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "G' olib",
+      "to": "G'olib",
+      "count": 2
+    },
+    {
+      "page": 17,
+      "from": "331. Apellyatsiya",
+      "to": "33¹. Apellyatsiya",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "I-o'rin",
+      "to": "1-o'rin",
+      "count": 3
+    },
+    {
+      "page": 17,
+      "from": "2-0'rin",
+      "to": "2-o'rin",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "3-0'rin",
+      "to": "3-o'rin",
+      "count": 1
+    },
+    {
+      "page": 17,
+      "from": "2-0 'rin",
+      "to": "2-o'rin",
+      "count": 1
+    },
+    {
+      "page": 18,
+      "from": "iSh kuni",
+      "to": "ish kuni",
+      "count": 1
+    },
+    {
+      "page": 18,
+      "from": "(I-qismda",
+      "to": "(1-qismda",
+      "count": 1
+    },
+    {
+      "page": 18,
+      "from": "iSh\nkuni",
+      "to": "ish\nkuni",
+      "count": 1
+    }
+  ]
+}

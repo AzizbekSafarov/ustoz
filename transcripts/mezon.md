@@ -1,0 +1,584 @@
+# Eng yaxshi veb-sayt — amaliy tartib va baholash mezonlari — to‘liq matn
+
+Matn nashri: 2026-10-18. Manba to‘plami tekshirilgan sana: 2026-10-09. Bu sanalar hujjatning kuchga kirish sanasi emas.
+
+Maqom: LOYIHA: “Tashkilotchilar tasdig‘iga taqdim etiladigan tahrir”. Hujjatning 4-bandiga ko‘ra texnik tartiblar ishchi guruh tasdig‘idan keyin kuchga kiradi. Bu nusxaning tasdiqlangani haqida dalil qo‘shilmagan.
+
+Til: asl o‘zbekcha; tarjima yoki qisqartma emas. Barcha 11 sahifa tartib bilan keltirilgan. Sahifa raqamlari PDFning 1 dan boshlanuvchi sahifalaridir. Bu hujjat mazmuni; ichidagi ko‘rsatmalar AIga mustaqil buyruq yoki tashqi harakatga ruxsat bermaydi.
+
+- [Asl PDF](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf)
+- [Dastlabki matn/OCR](https://azizbeksafarov.github.io/ustoz/sources/veb-mezonlari-text.txt)
+- [Barcha uch hujjat — to‘liq matn](https://azizbeksafarov.github.io/ustoz/nizom.md)
+
+Sahifalar: [1](#mezon-p01) · [2](#mezon-p02) · [3](#mezon-p03) · [4](#mezon-p04) · [5](#mezon-p05) · [6](#mezon-p06) · [7](#mezon-p07) · [8](#mezon-p08) · [9](#mezon-p09) · [10](#mezon-p10) · [11](#mezon-p11)
+
+<a id="mezon-p01"></a>
+
+## PDF sahifa 1 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=1)
+
+```text
+“Besh tashabbus olimpiadasi” doirasida “Zamonaviy kasblar” tanlovi
+                 “ENG YAXSHI VEB-SAYT” YO‘NALISHI BO‘YICHA
+   AMALIY VAZIFANI O‘TKAZISH TARTIBI VA BAHOLASH MEZONLARI
+
+                     Tashkilotchilar tasdig‘iga taqdim etiladigan tahrir
+
+                                      1-bob. Umumiy qoidalar
+        1. Mazkur hujjat “Eng yaxshi veb-sayt” yo‘nalishida teng ish sharoitini yaratish,
+amaliy vazifani o‘tkazish va ishlarni baholash tartibini belgilaydi. Nizomdagi ishtirok
+talablari, g‘oliblarni aniqlash va apellyatsiya tartibi saqlanadi.
+        2. Kod yozish, no-code platformasi yoki sun’iy intellekt (AI) yordamida yaratilgan,
+brauzerda ishlaydigan veb-sayt va veb-ilovalar baholanadi. Faqat telefonga o‘rnatiladigan
+ilova yoki bosilmaydigan dizayn rasmi sayt o‘rnida qabul qilinmaydi. Saytning o‘zida AI
+funksiyasi bo‘lishi shart emas.
+        3. Baholash 6 ta mezon asosida, jami 100 ball bilan amalga oshiriladi. Ball
+og‘irliklari: 30 / 20 / 10 / 10 / 20 / 10. Mezonlar barcha bosqichlarda bir xil; vazifa
+murakkabligi va amaliy ish vaqti bosqichga qarab belgilanadi.
+        4. Jihozlar, platformalar, limitlar, amaliy vaqt va ushbu hujjatdagi texnik tartiblar
+ishchi guruh tasdig‘idan keyin kuchga kiradi hamda oldindan e’lon qilinadi. Tanlov
+sanalari alohida rasmiy jadvalda belgilanadi.
+
+                            2-bob. Amaliy vazifani bajarish shartlari
+        5. Ishtirokchi tashkilotchi taqdim etgan kompyuterda, belgilangan internet va
+vositalardan foydalanib mustaqil ishlaydi. Bir bosqichda teng imkoniyatli jihozlar, bir xil
+dastur versiyalari va oldindan tekshirilgan hisoblar ta’minlanadi.
+        Tashkilotchilar taqdim etadigan resurslar
+         To‘plam                                       Tarkibi                                 Format
+ Bilet va talablar           Foydalanuvchi, muammo, majburiy bo‘lim va amallar,            PDF / matn
+                             vaqt, qabul sinovlari
+ Mazmun va materiallar       Tayyor matnlar, test ma’lumotlari, foydalanishga ruxsat       Matn / jadval /
+                             etilgan rasmlar va logotiplar                                 tasvir
+ Topshirish                  Havola yoki mahalliy ishga tushirish, loyiha nusxasi,         PDF / matn
+ yo‘riqnomasi                fayl nomi va qabul manzili
+        6. Biletlar bir vaqtda ochiladi. Bir guruh uchun bir xil topshiriq tavsiya etiladi;
+tasodifiy biletlar ishlatilsa, murakkabligi va majburiy amallari tengligi sinov bilan
+tekshiriladi. Oshkor bo‘lgan vazifa keyingi guruhga berilmaydi.
+```
+
+---
+
+<a id="mezon-p02"></a>
+
+## PDF sahifa 2 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=2)
+
+```text
+2-bob. Amaliy vazifani bajarish shartlari (davomi)
+        Ruxsat etilgan dasturlar va xizmatlar
+           Vosita                                        Vazifasi                                 Misollar
+  Brauzer                     Sayt, ekran kengliklari va xatolarni tekshirish                  Chrome, Edge
+  No-code muhiti              Sahifa va funksiyalarni vizual usulda yaratish                   Tilda
+  AI bilan yaratish           Loyiha yaratish, tushuntirish va takomillashtirish               Antigravity,
+                                                                                               Codex,
+                                                                                               Lovable, Replit
+  Kod muhiti                  Kod yozish, ishga tushirish va versiyalarni saqlash              VS Code,
+                                                                                               Cursor; zarur
+                                                                                               bo‘lsa Node.js
+                                                                                               va Git
+  AI yordamchisi              Reja, matn, kod va xatolar ustida ishlash                        Claude Code,
+                                                                                               Codex yoki
+                                                                                               boshqa
+                                                                                               tasdiqlangan
+                                                                                               vosita
+        7. Birinchi bosqich uchun Antigravity va Codex ko‘zda tutiladi. Ikkinchi bosqichda
+Claude Code, Codex yoki ishtirokchi tanlagan boshqa vositadan foydalanish mumkin.
+Ro‘yxat barcha vositalarni ishlatishni talab qilmaydi; boshqa platforma ham teng sharoit
+va oldindan tasdiqlangan limitlar asosida qo‘llanadi.
+        Hisoblar va teng foydalanish limitlari
+        8. Tashkilotchi xizmat qoidalari va yosh talablariga mos alohida foydalanish
+huquqini tayyorlaydi. Shaxsiy bank kartasi, pulli obuna yoki shaxsiy hisobni hakamga
+topshirish talab qilinmaydi. Xizmat qoidalariga zid hisob almashish qo‘llanmaydi.
+        9. Bir platformada bir xil tarif, model, ruxsat va boshlang‘ich limit beriladi. Turli
+platformalardagi kreditlar teng deb olinmaydi: yetarli limit bir xil namunaviy vazifa sinovi
+bilan aniqlanadi. Bir qatnashchi boshqalarning umumiy kreditini tugata olmasligi kerak.
+        10. Shaxsiy pulli tarif, tashqi API kaliti yoki qo‘shimcha kredit orqali ustunlik olish
+taqiqlanadi. Rejadagi limit tugashi nosozlik emas. Tashkilotchi noto‘g‘ri biriktirgan limit
+dalolatnoma asosida tuzatiladi; bir xil holatdagilarga bir xil yechim qo‘llanadi.
+        Ruxsat etiladi
+        – AI orqali reja, matn, kod va tasvir yaratish, xatoni tushuntirish va tuzatish; rasmiy
+qo‘llanma, paket va ruxsat etilgan ochiq materiallardan foydalanish. Ishtirokchi natijani
+tekshiradi va ishlashini tushuntiradi.
+        Taqiqlanadi
+        – boshqa insondan yechim olish, masofadan boshqaruv yoki messenjer orqali
+yordam; avval tayyorlangan to‘liq loyihani topshirish; shaxsiy kompyuter, qo‘shimcha
+monitor yoki alohida internet bilan ustunlik olish. Maxsus foydalanish moslamasi oldindan
+kelishiladi.
+        11. AI ishlatishning o‘zi qoidabuzarlik emas. Asosiy so‘rov va muhim tuzatishlar
+tanlov loyihasi tarixida saqlanadi; shaxsiy suhbatlar tarixi talab qilinmaydi.
+```
+
+---
+
+<a id="mezon-p03"></a>
+
+## PDF sahifa 3 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=3)
+
+```text
+3-bob. Bosqichlar bo‘yicha vazifa formati va vaqti
+        12. Ish boshlanishidan oldin hisobga kirish, dastur sozlash, ko‘rish va topshirishni
+sinash uchun 15 daqiqa beriladi. Bu vaqt amaliy ishga kirmaydi; sinov loyihasi tanlov
+ishida ishlatilmaydi. Bilet ochilgach amaliy vaqt boshlanadi.
+      Bosqich              Vazifa ko‘lami                    Tekshiriladigan natija                    Vaqt
+                               (tavsiya)
+  Tuman (shahar)       Kamida 3 mazmuniy            1 ta yakunlangan foydalanuvchi amali          60 daqiqa
+                       bo‘lim va tushunarli
+                       navigatsiya
+      Hududiy          Kamida 3 sahifa yoki         2 ta bog‘liq amal, noto‘g‘ri kiritishni       Taxminan 2
+                       teng hajmli ekran            tekshirish va natija                          soat
+     Respublika        Kamida 4 sahifa yoki         3 ta bog‘liq amal, ma’lumotni saqlash,        Taxminan 4
+                       teng hajmli ekran            bo‘sh va xato holatlari                       soat
+        13. Hududiy va respublika bosqichi muddati namunaviy sinovdan keyin aniq
+belgilanadi. Saqlash usuli — brauzerda yoki serverda — biletda yoziladi. Barcha ruxsat
+etilgan platformalarda teng bajarib bo‘lmaydigan talab kiritilmaydi.
+        14. Reja / yaratish / sinov / topshirish uchun tavsiya etilgan taqsimot: 60 daqiqada
+— 5 / 40 / 10 / 5; 120 daqiqada — 10 / 80 / 20 / 10; 240 daqiqada — 25 / 155 / 40 / 20.
+Ishtirokchi umumiy vaqtni o‘zi boshqaradi. Odatdagi AI kutish, paket o‘rnatish, xato
+tuzatish va yuborish shu vaqtga kiradi; erta topshirish bonus bermaydi.
+        Topshiriladigan materiallar
+          Material                                         Talab                                   Ko‘rinish
+  Ishlaydigan sayt             Tekshiriladigan havola yoki kelishilgan mahalliy ishga           Havola / loyiha
+                               tushirish usuli; shaxsiy domen sotib olish shart emas
+  Tahrirlanadigan loyiha       Kod va ishga tushirish yo‘riqnomasi; no-code uchun               Manba / nusxa
+                               loyiha nusxasi yoki kelishilgan ko‘rish huquqi
+  Qisqa tavsif va              Ishtirokchi kodi, bilet, funksiyalar, testlar, cheklovlar;       Matn / tarix
+  manbalar                     vositalar, asosiy so‘rovlar yoki tarix, tashqi manbalar
+  Zaxira dalillar              3–5 ekran tasviri va asosiy amalning 1–2 daqiqalik               Tasvir / video
+                               yozuvi; ishlaydigan sayt o‘rnini bosmaydi
+        15.       Papka       nomi:       bosqich_ishtirokchi-kodi_bilet-raqami       (masalan,
+hududiy_017_003). Sun’iy test ma’lumotlari qo‘llanadi; haqiqiy to‘lov va shaxsiy
+ma’lumot yig‘ish talab qilinmaydi. Parol, token va maxfiy kalitlar ochiq fayl yoki brauzer
+kodida bo‘lmaydi.
+        16. Tugashiga 30, 10 va 5 daqiqa qolgani e’lon qilinadi. Muddatda tahrir to‘xtatilib,
+kod nusxasi yoki no-code versiyasi vaqt bilan qayd etiladi; qabul mas’uli tasdiqlaydi.
+O‘zgaruvchan havolaning o‘zi yetarli emas. Eksport cheklangan platformada loyiha
+nusxasini qayd etish usuli oldindan tayyorlanadi.
+        17. Himoya alohida 15 daqiqa: 5 daqiqa taqdimot, 5 daqiqa amaliy namoyish, 5
+daqiqa savol-javob. Topshirilgan loyihani himoyada o‘zgartirish mumkin emas. Slayd
+majburiy emas.
+```
+
+---
+
+<a id="mezon-p04"></a>
+
+## PDF sahifa 4 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=4)
+
+```text
+4-bob. Baholash mezonlari va ko‘rsatkichlari
+         18. Olti mezon 21 ta o‘lchanadigan ko‘rsatkichga ajratiladi. Har bir ko‘rsatkich
+alohida baholanadi; maksimal ballar yig‘indisi 100. Quyidagi jadvallar va ekspert
+varaqasidagi kodlar o‘zaro mos.
+   T/r             Mezon                    Ko‘rsatkich                          Nimaga qaraladi                        Maks.
+                                                                                                                         ball
+   1.1     Veb-saytning sifati         Asosiy funksiyalar           Biletdagi majburiy amallar boshidan                   10
+           va funksionalligi (30                                    oxirigacha ishlaydi; kiritilgan
+           ball)                                                    ma’lumotdan kutilgan natija olinadi.
+                                                                    Tugma faqat ko‘rinish uchun
+                                                                    qo‘yilmagan.
+   1.2                                 Barqarorlik va xato          Oddiy va noto‘g‘ri kiritishlarda sayt                  8
+                                       holatlari                    buzilmaydi. Biletda belgilangan
+                                                                    tekshiruvlar, bo‘sh holatlar va xato
+                                                                    xabarlari ishlaydi.
+   1.3                                 Ekranga moslashish           390, 768 va 1366 piksel kenglikda                      6
+                                                                    asosiy matn, tugma va shakllar ochiq;
+                                                                    kontent kesilmaydi, keraksiz yonlama
+                                                                    surish yo‘q.
+   1.4                                 Tezlik va texnik             Bir xil sinov sharoitida sayt oqilona tez              6
+                                       ishlash                      ochiladi; havolalar va resurslar
+                                                                    yuklanadi. Asosiy foydalanishga
+                                                                    to‘sqinlik qiladigan texnik xato yo‘q.
+   2.1     Dolzarbligi va              Topshiriqqa moslik           Sayt biletdagi muammo va maqsadli                      5
+           mazmuni (20 ball)                                        foydalanuvchiga mos. Mavzu sahifa
+                                                                    mazmuni va foydalanuvchi vazifasida
+                                                                    ochib berilgan.
+   2.2                                 Mazmunning aniqligi          Matnlar tushunarli va mazmunan                         5
+                                                                    to‘g‘ri. Muhim bo‘limlarda bo‘sh yoki
+                                                                    vaqtinchalik matn qolmagan.
+   2.3                                 Amaliy foyda                 Foydalanuvchi kerakli ma’lumotni                       5
+                                                                    oladi, keyingi harakatini biladi. Yechim
+                                                                    vazifani bajarishni yengillashtiradi.
+   2.4                                 Ma’lumotning                 Nom, sana, narx va natijalar sahifalar                 5
+                                       izchilligi                   bo‘ylab bir xil. Test ma’lumoti haqiqiy
+                                                                    ma’lumot sifatida ko‘rsatilmagan.
+   3.1     Dizayn va                   Tuzilish va                  Asosiy amal oson topiladi. Menyu va                    4
+           foydalanuvchi               navigatsiya                  tugma nomlari tushunarli;
+           tajribasi (10 ball)                                      foydalanuvchi qayerda ekanini va
+                                                                    keyingi qadamni biladi.
+   3.2                                 O‘qilish va qulaylik         Matn o‘qiladi, fon bilan kontrast yetarli.             3
+                                                                    Shakl maydonlari nomlangan; asosiy
+                                                                    amallar klaviaturada bajariladi va fokus
+                                                                    ko‘rinadi.
+   3.3                                 Yaxlit ko‘rinish             Rang, shrift, masofa va tugmalar bir                   3
+                                                                    uslubda. Asosiy hamda ikkilamchi
+                                                                    ma’lumot ajratilgan; bezak ishlatishga
+                                                                    xalaqit bermaydi.
+```
+
+---
+
+<a id="mezon-p05"></a>
+
+## PDF sahifa 5 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=5)
+
+```text
+4-bob. Baholash mezonlari va ko‘rsatkichlari (davomi)
+
+   T/r             Mezon                   Ko‘rsatkich                         Nimaga qaraladi                      Maks.
+                                                                                                                      ball
+   4.1    Taqdimot sifati (10         Muammo va yechim            Ishtirokchi sayt kim uchun ekanini,                  3
+          ball)                                                   qaysi muammoni hal qilishini va asosiy
+                                                                  yechimni qisqa, aniq tushuntiradi.
+   4.2                                Amaliy namoyish             Asosiy foydalanuvchi yo‘lini ko‘rsatadi;             4
+                                                                  tanlagan vosita va yechim sababini
+                                                                  hamda o‘zi kiritgan o‘zgarishlarni
+                                                                  izohlaydi.
+   4.3                                Savollarga javob            Javoblar o‘z loyihasiga asoslanadi.                  3
+                                                                  Ishtirokchi cheklov va kamchilikni
+                                                                  tushunadi, tuzatish yo‘lini izohlay oladi.
+   5.1    Zamonaviy                   Vosita va ish usulini       No-code, AI, CMS yoki kod muhiti                     6
+          texnologiyalardan           tanlash                     vazifaga mos tanlangan. Tanlovning
+          foydalanish (20                                         maqsadga muvofiqligi loyiha va
+          ball)                                                   sozlamalar bilan tasdiqlanadi.
+   5.2                                Moslashtirish va            AI yoki tayyor komponent natijasi                    6
+                                      boshqarish                  talabga moslashtirilgan; so‘rov, sozlama
+                                                                  yoki kodda mazmunli o‘zgarishlar bor.
+   5.3                                Sinash va yaxshilash        Asosiy sinovlar va ularning natijalari               4
+                                                                  ko‘rsatiladi; topilgan xatoga kiritilgan
+                                                                  tuzatish dalili bor. Tayyor natija
+                                                                  tekshirilgan.
+   5.4                                Loyiha tartibi va           Tahrirlanadigan loyiha tartibli; vosita va           4
+                                      topshirish                  manbalar qayd etilgan. Tekshirish
+                                                                  yo‘riqnomasi bor; ochiq parol, token
+                                                                  yoki maxfiy kalit qolmagan.
+   6.1    Kreativlik va               O‘ziga xos                  Vazifaga mos mustaqil qaror yoki                     4
+          originallik (10 ball)       yondashuv                   foydali g‘oya mavjud. Ish
+                                                                  o‘zgartirilmagan tayyor namuna holida
+                                                                  qolmagan.
+   6.2                                Foydali ijodiy              Ma’lumotni ko‘rsatish yoki                           3
+                                      yechim                      foydalanuvchi yo‘lida o‘ylangan yechim
+                                                                  bor; u vazifani bajarishni
+                                                                  yengillashtiradi.
+   6.3                                Mazmun va uslub             Sayt nomi, matni, ko‘rinishi va amallari             3
+                                      uyg‘unligi                  bir maqsadga xizmat qiladi; yechim
+                                                                  yaxlit va esda qolarli.
+    1-mezon           2-mezon          3-mezon           4-mezon           5-mezon           6-mezon             JAMI
+        30               20                10                10                20                10               100
+         Texnologiyadan foydalanish dalillari
+         AI ishlatilmasa, so‘rovlar tarixi talab qilinmaydi: kod o‘zgarishlari, platforma
+sozlamalari, versiya tarixi yoki sinov yozuvlari tekshiriladi. Chatbot qo‘shish, ko‘p prompt
+yozish yoki ko‘p dastur ishlatish majburiy emas.
+         Biletda arizani saqlash so‘ralsa, ekspert uni kiritib, qayta topadi. Faqat ekranda
+tasdiq   so‘ralgan   bo‘lsa,   server   yoki   ma’lumotlar   bazasi   yo‘qligi   uchun   ball
+kamaytirilmaydi.
+```
+
+---
+
+<a id="mezon-p06"></a>
+
+## PDF sahifa 6 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=6)
+
+```text
+4-bob. Ball qo‘yish shkalasi va qo‘llash qoidalari
+        19. Har bir ko‘rsatkich 0 dan o‘z maksimumigacha butun son bilan baholanadi.
+Ekspert natijani tekshiradi va kamchilikni aniq yozadi. Quyidagi darajalar va tayanch ballar
+barcha ishlarga bir xil qo‘llanadi.
+      Daraja                          Mazmuni                                    Dalilga talab
+ To‘liq               Talab bajarilgan; muhim kamchilik            Qabul sinovi va natija tasdiqlangan
+                      yo‘q
+ Asosan               Asosiy natija ishlaydi, kichik kamchilik     Ishlaydigan natija va kichik kamchilik
+                      bor                                          qayd etiladi
+ Qisman               Natijaning bir qismi bor; muhim to‘siq       Bajarilgan va bajarilmagan qism
+                      mavjud                                       ajratiladi
+ Juda sust            Faqat ayrim unsurlar ishlaydi                Mavjud natija cheklanganligi
+                                                                   ko‘rsatiladi
+ Bajarilmagan         Natija yoki uni tasdiqlovchi dalil yo‘q      Qaysi talab tekshirilgani yoziladi
+        Tayanch ballar
+  Maks.        Bajarilmagan            Juda sust           Qisman             Asosan              To‘liq
+    10                0                    3                  5                  8                  10
+     8                0                    2                  4                  6                   8
+     6                0                    2                  3                  5                   6
+     5                0                    1                  3                  4                   5
+     4                0                    1                  2                  3                   4
+     3                0                    1                  2                  2                   3
+        20. Oraliq ball qisqa dalil bilan qo‘yilishi mumkin. Masalan, 8 ballik ko‘rsatkich
+asosan bajarilsa, tayanch 6 ball; 7 ball uchun qolgan kamchilik juda kichik ekani
+asoslanadi. 3 ballik ko‘rsatkichda “qisman” va “asosan” darajalari butun sonli shkala
+sababli 2 ballga to‘g‘ri keladi.
+        Adolatli baholash chegaralari
+        21. Bir xato ikki marta hisoblanmaydi. Ishlamaydigan qidiruv 1-mezonda; uning
+tushunarsiz nomlanishi kabi alohida qulaylik kamchiligi 3-mezonda baholanadi. Ekranda
+kesilish — 1.3, noaniq navigatsiya — 3.1. 4.2 da tushuntirish va namoyish, 5.1 da esa
+vosita tanlovining loyiha dalillari tekshiriladi.
+        22. Platforma brendi, pulli tarif, kod satri, prompt yoki effekt soni avtomatik ball
+bermaydi. No-code bilan puxta bajarilgan ish 100 ball olishi mumkin. Qo‘lda kod yozish
+yoki AI ishlatishning o‘zi bonus yoki kamaytirish asosi emas.
+        23.   Faqat   biletda   oldindan   berilgan   majburiy   imkoniyatlar   talab   qilinadi.
+Qo‘shimcha funksiya asosiy vazifadagi kamchilikni qoplamaydi. Ekspert yangi talab
+qo‘shmaydi; bir xil brauzer, ekran kengligi va test ma’lumotlaridan foydalanadi.
+        24. Hayajon, sheva va aksent uchun ball kamaytirilmaydi. Ishlamaydigan funksiya
+taqdimotni avtomatik nol qilmaydi; og‘zaki va’da esa ishlamagan funksiyani bajarilgan
+deb hisoblashga asos bo‘lmaydi. Originallik uchun dunyoda mutlaqo yangi g‘oya talab
+etilmaydi.
+```
+
+---
+
+<a id="mezon-p07"></a>
+
+## PDF sahifa 7 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=7)
+
+```text
+5-bob. Qoidabuzarliklar va texnik uzilishlar
+        25. Kuzatuvchi holatni dalolatnoma bilan qayd etadi, ishchi guruh Nizom va
+oldindan e’lon qilingan tartib asosida qaror qiladi. Ekspert o‘zicha jarima balli yoki yangi
+chetlashtirish qoidasini joriy etmaydi.
+                             Holat                                            Qo‘llanadigan tartib
+  Boshqa insonning yordami, masofadan boshqaruv yoki              Dalillar saqlanadi; mustaqil ish talabi
+  avval tayyorlangan to‘liq loyiha                                buzilgani bo‘yicha ishchi guruh qaror qiladi.
+  Shaxsiy pulli tarif, tashqi API kaliti yoki ruxsatsiz           Teng sharoit buzilishi qayd etilib, ishchi
+  qurilma bilan ustunlik olish                                    guruhga taqdim qilinadi.
+  Ruxsat etilgan AI, no-code, ochiq material yoki                 O‘z-o‘zidan qoidabuzarlik emas;
+  shablon ishlatish                                               moslashtirish, manbalar va natija
+                                                                  baholanadi.
+  Faqat ko‘rinishi o‘xshashligi asosida ko‘chirish                Tashqi o‘xshashlikning o‘zi yetarli emas;
+  gumoni                                                          loyiha tarixi va mustaqil ish dalillari
+                                                                  tekshiriladi.
+  Muddatdan keyin tahrirlash yoki topshirish                      Faqat muddatda qayd etilgan nusxa
+                                                                  baholanadi. Kechikish sababi va dalillar
+                                                                  ishchi guruhga beriladi.
+  Fayl nomi, tartibi yoki yo‘riqnomadagi kamchilik                Tegishli ko‘rsatkichda, asosan 5.4 da
+                                                                  hisoblanadi; bir kamchilik ikki marta
+                                                                  kamaytirilmaydi.
+        Texnik uzilishlarda harakat qilish
+        26. Kompyuter, tashkilotchi interneti, biriktirilgan hisob yoki umumiy xizmat
+ishlamay qolsa, ishtirokchi darhol kuzatuvchiga xabar beradi. Boshlanish va tugash vaqti,
+ta’sirlangan ish joylari va ko‘rilgan chora dalolatnomada yoziladi.
+        27. Ishni to‘xtatgan tasdiqlangan vaqt tegishli ishtirokchiga qoplanadi; umumiy
+uzilishda umumiy vaqt to‘xtatiladi. Zarur bo‘lsa zaxira kompyuter yoki oldindan
+tayyorlangan zaxira usul qo‘llanadi. Bitta platformadagi jiddiy uzilish ham dalolatnoma
+asosida ko‘riladi.
+        28. Odatiy dastur xatosi, ishtirokchi o‘chirgan fayl, sekin prompt natijasi yoki odatiy
+AI navbati qo‘shimcha vaqt bermaydi. Rejalashtirilgan limit tugashi va tashkilotchining
+limitni noto‘g‘ri ajratishi 10-band bo‘yicha farqlanadi.
+        29. Topshirish kanali ishlamasa, muddat tugagan nusxa kuzatuvchi tomonidan
+mahalliy papkaga qabul qilinadi. Ish keyinroq tekshirilishi mumkin, ammo qabul qilingan
+nusxani tuzatishga yo‘l qo‘yilmaydi.
+```
+
+---
+
+<a id="mezon-p08"></a>
+
+## PDF sahifa 8 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=8)
+
+```text
+6-bob. Tashkilotchilar uchun texnik tayyorgarlik
+        30. Jihoz va xizmatlar tanlovdan oldin barcha ish joylari bir vaqtda ishlagan holda
+sinovdan o‘tkaziladi. Mahalliy katta AI modelini ishga tushirish talab qilinmaydi.
+Quyidagi ko‘rsatkichlar texnik tayyorgarlik uchun tavsiyadir:
+     Jihoz yoki xizmat                          Tavsiya etiladigan talab                           Tekshiruv
+  Kompyuter                    Kamida 4 yadroli 64 bitli protsessor; 16 GB RAM; og‘ir           Tanlangan
+                               final vazifasi uchun 32 GB                                       vazifa bilan
+                                                                                                teng ishlash
+  Disk                         Kamida 256 GB SSD, 30 GB bo‘sh joy; 512 GB SSD                   Loyiha
+                               qulay                                                            yaratish va
+                                                                                                saqlash
+  Ekran va grafika             1920 × 1080; noutbuk kamida 14 dyuym. Tashqi                     Ichki grafika
+                               monitor bo‘lsa barcha qatnashchiga bir xil                       yetarliligi;
+                                                                                                alohida
+                                                                                                videokarta
+                                                                                                shart emas
+  Muhit va jihozlar            Yangilangan tizim, bir xil dastur versiyasi; sichqoncha,         Hisobga kirish,
+                               klaviatura va quvvat                                             brauzer va
+                                                                                                eksport
+  Internet                     Har faol joyga boshlang‘ich tavsiya: 10 Mbit/s qabul, 5          Bir vaqtda AI
+                               Mbit/s yuborish                                                  so‘rovi, loyiha
+                                                                                                ochish va
+                                                                                                yuborish
+  Zaxira                       Kompyuterlar: qatnashchilarning kamida 10 foizi, lekin           Tarmoq uchun
+                               kamida 1 dona; zaxira internet                                   uzluksiz
+                                                                                                quvvat; xavfsiz
+                                                                                                elektr ulanishi
+        Tayyorgarlik varaqasi
+        □ Biletlar, sinovlar, bosqich vaqti va ko‘lami barcha tasdiqlangan yaratish usullarida
+tekshirilgan.
+        □ Hisoblar, yoshga mos kirish, tariflar va individual AI limitlari tayyor;
+xizmatlarning amaldagi foydalanish va eksport shartlari qayta tekshirilgan.
+        □ Kodli loyiha va no-code nusxasini qayd etish, topshirish va qayta ochish sinovdan
+o‘tgan.
+        □ Kuzatuvchi, texnik mas’ul, kotib va ekspert vazifalari taqsimlangan; namuna
+ishlar bilan baholash mashg‘uloti o‘tkazilgan.
+        □ Texnik uzilish dalolatnomasi, zaxira topshirish joyi va natijalarni saqlash mas’uli
+belgilangan.
+        □ Vaqt, vositalar, taqiqlar, mezonlar, o‘rtacha ball va tenglikni hal qilish tartibi
+ishtirokchilarga oldindan e’lon qilingan.
+        31. Ishchi guruh bosqichlar muddatini, jihoz va platformalarni, limitlarni, bilet
+tanlash usulini, nusxani saqlash va uzilishni qoplash tartibini, kichik ko‘rsatkichlarni
+hamda natijalarni birlashtirish usulini tasdiqlaydi.
+Tasdiqlash hujjati raqami va sanasi: __________________________
+Mas’ul shaxs va imzo: _____________________________________
+```
+
+---
+
+<a id="mezon-p09"></a>
+
+## PDF sahifa 9 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=9)
+
+```text
+7-bob. Baholash tartibi
+        32. Ekspertlarning tajriba, portfolio, texnologiyalarni bilish va xolislik talablari
+saqlanadi. Ustoz AI kursini tugatish amaliy tajriba o‘rnini bosmaydi. Manfaatlar
+to‘qnashuvi bo‘lgan ekspert tegishli ishni baholamaydi. Kamida 3 mustaqil ekspert tavsiya
+etiladi; tarkib va baholovchilar soni oldindan belgilanadi.
+        33. Tanlovgacha ekspertlar kamida 2 namunaviy ishni mustaqil baholab, farqlarni
+dalillar asosida muhokama qiladi. Baholash varaqasida ishtirokchining ismi o‘rniga kodi
+yoziladi.
+        Baholash ketma-ketligi
+        1) Kotib ishtirokchi kodi, bilet va muddatda qayd etilgan loyiha nusxasini
+moslashtiradi.
+        2) Ekspertlar bir xil sharoitda sayt va qabul sinovlarini tekshiradi; 1, 2, 3, 5 va 6-
+mezonlar uchun dalil qayd etadi.
+        3) Himoyada 4-mezon baholanadi; loyiha, sozlamalar, o‘zgarishlar tarixi va testlar
+ko‘rsatiladi. Qabul qilingan nusxa o‘zgartirilmaydi.
+        4) Har ekspert mustaqil ball va qisqa dalil yozib, varaqani imzolaydi. Ball
+boshqalarga shunchaki moslashtirish uchun o‘zgartirilmaydi.
+        5) Kotib yig‘indilarni tekshiradi va natijalarni bayonnoma bilan ishchi guruhga
+beradi.
+        34. Bir xil mazmundagi savollar beriladi: foydalanuvchi qaysi ishni bajaradi; nega
+shu vosita tanlangan; AI yoki tayyor natijada nima o‘zgartirilgan; qaysi xato qanday
+tekshirilgan; loyihaning qaysi cheklovi mavjud?
+        Ballarni birlashtirish va tenglik
+        35. Tasdiqlash uchun taklif: yakuniy ball ekspertlar jami ballarining arifmetik
+o‘rtachasi sifatida hisoblanadi. Har mezon o‘rtachalari ham qayd etiladi. Oraliq qiymatlar
+yaxlitlanmaydi; natija ikki kasr xonada ko‘rsatiladi, reyting asl hisoblangan qiymatga
+asoslanadi. Eng yuqori va past ball chiqarib tashlanmaydi. Masalan, (82 + 86 + 84) ÷ 3 =
+84,00.
+        36. Manba reglamentda keltirilgan Nizomning 20¹-bandiga muvofiq, teng yakuniy
+ballda avval 1-mezon, keyin 5-mezon bo‘yicha ustunlik aniqlanadi. O‘rtacha hisoblash
+usulida mezonlarning o‘rtacha ballari solishtiriladi.
+        37. Barcha mezonlar teng bo‘lsa, yopiq ovoz berish, ovozlar tengligida raisning hal
+qiluvchi ovozi qo‘llanadi. Yakuniy ball hamda 1- va 5-mezonlar teng, boshqa mezonlar
+farqli holatni ham yopiq ovoz bilan hal qilish taklifi ishchi guruh tomonidan tanlovdan
+oldin alohida aniqlashtiriladi.
+        38. Manba reglamentdagi 33¹-band tartibi saqlanadi: natija e’lon qilingach 2 ish
+kunida apellyatsiya beriladi; dastlabki baholashda qatnashmagan kamida 3 a’zoli hay’at
+uni 3 ish kunida ko‘radi. Hisob xatosi, mezon buzilishi yoki ishtirokchi huquqiga oid
+dalillar tekshiriladi.
+```
+
+---
+
+<a id="mezon-p10"></a>
+
+## PDF sahifa 10 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=10)
+
+```text
+1-ilova
+
+                              EKSPERT BAHOLASH VARAQASI
+                                  “Eng yaxshi veb-sayt” yo‘nalishi
+Ekspert F.I.Sh.: __________________________________________
+Bosqich: __________________  Hudud / tuman: ________________
+Ishtirokchi kodi: ____________  Bilet raqami: __________________
+Sana: ____________________  Nusxa qayd vaqti: _______________
+  T/r                    Ko‘rsatkich                      Maks.        Qo‘yilgan         Dalil / qisqa izoh
+                                                           ball           ball
+   1.1    Asosiy funksiyalar                                10
+   1.2    Barqarorlik va xato holatlari                      8
+   1.3    Ekranga moslashish                                 6
+   1.4    Tezlik va texnik ishlash                           6
+   2.1    Topshiriqqa moslik                                 5
+   2.2    Mazmunning aniqligi                                5
+   2.3    Amaliy foyda                                       5
+   2.4    Ma’lumotning izchilligi                            5
+   3.1    Tuzilish va navigatsiya                            4
+   3.2    O‘qilish va qulaylik                               3
+   3.3    Yaxlit ko‘rinish                                   3
+   4.1    Muammo va yechim                                   3
+   4.2    Amaliy namoyish                                    4
+   4.3    Savollarga javob                                   3
+   5.1    Vosita va ish usulini tanlash                      6
+   5.2    Moslashtirish va boshqarish                        6
+   5.3    Sinash va yaxshilash                               4
+   5.4    Loyiha tartibi va topshirish                       4
+   6.1    O‘ziga xos yondashuv                               4
+   6.2    Foydali ijodiy yechim                              3
+   6.3    Mazmun va uslub uyg‘unligi                         3
+          JAMI                                             100
+
+     1-mezon           2-mezon           3-mezon            4-mezon           5-mezon            6-mezon
+    ____ / 30       ____ / 20         ____ / 10         ____ / 10          ____ / 20         ____ / 10
+Ekspert imzosi: ______________  Kotib tekshiruvi: ______________
+        Har bir ball kuzatilgan natijaga asoslanadi. Ko‘rsatkich va mezon yig‘indilari o‘z
+maksimumidan, jami ball 100 dan oshmaydi. Bitta kamchilik ikki marta hisoblanmaydi.
+```
+
+---
+
+<a id="mezon-p11"></a>
+
+## PDF sahifa 11 / 11
+
+[Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=11)
+
+```text
+2-ilova
+
+                        NAMUNAVIY AMALIY TOPSHIRIQ BILETI
+                        Bilet 001 • Tuman (shahar) bosqichi • 60 daqiqa
+        Mavzu: Yoshlar uchun bepul mahorat darslari
+        Yoshlar markazi bepul mahorat darslarini o‘tkazadi. Foydalanuvchi dars haqida
+ma’lumot olishi, mosini tanlashi va qatnashish niyatini sayt orqali bildirishi uchun veb-
+sayt yarating.
+        Beriladigan materiallar
+        Bir xil jadval: 6 ta darsning nomi, yo‘nalishi, sanasi, vaqti va joyi; markaz tavsifi va
+ruxsat etilgan rasmlar. Berilgan sana va manzillar o‘zgartirilmaydi. Faqat sun’iy test
+ma’lumotlari ishlatiladi.
+  Kod             Majburiy natija                                      Qabul sinovi
+ T1       Markaz haqida va darslar            Sayt maqsadi tushuniladi. Jadvaldagi 6 darsning nomi,
+          ro‘yxati                            sana-vaqti va joyi ko‘rinadi.
+ T2       Ro‘yxatdan o‘tish shakli            Ism va dars tanlash majburiy. Bo‘sh shakl yuborilganda
+                                              tushunarli xabar chiqadi.
+ T3       To‘g‘ri yuborish natijasi           Test ismi va dars bilan yuborilganda tasdiq chiqadi.
+                                              Haqiqiy ro‘yxatga yozish talab qilinmaydi.
+ T4       Navigatsiya va moslashish           Menyu kerakli bo‘limni ochadi. 390, 768 va 1366 piksel
+                                              kenglikda asosiy kontent va shakl ishlatiladi.
+        Alohida server, hisob, to‘lov, elektron xat va ma’lumotlar bazasi talab qilinmaydi.
+Shakl sinov uchun ekani saytda yoziladi. Tasdiq brauzer yoki platformaning tayyor shakli
+orqali berilishi mumkin; qabul sinovi bir xil.
+        Topshirish va himoya
+        Sayt, tahrirlanadigan loyiha yoki platforma nusxasi, T1–T4 sinov natijalari, vosita
+va manbalar, ma’lum cheklovlar hamda zaxira dalillar topshiriladi. Himoyada bitta
+noto‘g‘ri kiritish va bitta muvaffaqiyatli foydalanish yo‘li ko‘rsatiladi.
+        Yangi biletlarni tayyorlash
+        Faqat mavzu nomini almashtirish yetarli emas: foydalanuvchi, vaziyat va mazmun
+alohida yoziladi; talab va sinovlar qiyinligi teng saqlanadi. Hududiy va finaldagi
+qo‘shimcha amallar, saqlash usuli va testlar aniq ko‘rsatiladi. Har bilet ruxsat etilgan
+yaratish usullarida oldindan sinovdan o‘tkaziladi.
+        Hujjatning asoslari
+        Mazmun va ball taqsimoti: taqdim etilgan “Eng yaxshi veb-sayt” texnik reglamenti.
+Tuzilish va jadval namunasi: “Grafik dizayn baholash mezonlari”. Nizomga havolalar
+manba reglamentdan saqlandi: “Zamonaviy kasblar — QO‘SHMA QAROR NIZOM”, 4-
+ilova, 2, 3, 7–9, 13, 19, 20, 20¹, 23 va 33¹-bandlar.
+```
