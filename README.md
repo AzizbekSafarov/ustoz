@@ -20,6 +20,8 @@ Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_
 
 ## Fayllar
 
+- **CONTEXT-STATUS.md** — tarixiy qaydlar, joriy topshiriq ustuvorligi va nusxalarning maqomi.
+
 - **00-START-HERE.md** — AI avval o‘qiydigan qisqa kontekst.
 - **01-RESEARCH.md** — to‘liq tadqiqot, manbalar va farqlar.
 - **02-WORKFLOW.md** — ish, sinov, topshirish va himoya tartibi.
@@ -38,21 +40,17 @@ Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_
 
 Bu bilim paketi haqiqiy bilet yoki tayyor tanlov sayti emas. Havoladan foydalanish va hisoblar bo‘yicha joydagi reglamentga amal qilinadi.
 
-## Joylashtirish variantlari
+## Nashr va yagona manba
 
-**GitHub Gist:** to‘rtta matn faylini bitta gistga qo‘shish. Qisqa kontekst uchun Raw havolasini nusxalash. Asl PDFlar Gist matn paketiga kiritilmaydi.
+Sayt allaqachon GitHub Pages’da nashr qilingan. [Kontekst maqomi](CONTEXT-STATUS.md) tarixiy reja bilan hozirgi vazifani ajratadi. `ai.md` alohida qo‘lda saqlanadigan versiya emas: nomlangan manba fayllari va to‘liq nizomlardan avtomatik yig‘iladi. HTML/TXT/ZIP ko‘rinishlari ham shu ma’lumotlarning nusxalari.
 
-**GitHub repository:** butun paketni joylashtirish; README yoki 00-START-HERE.md asosiy kirish nuqtasi. PDFlar uchun sources/ papkasidagi fayllar. GitHub Pages alohida chiroyli veb sahifa kerak bo‘lsa qo‘shilishi mumkin, AI konteksti uchun majburiy emas.
-
-**Notion:** qisqa va to‘liq matnni sahifalarga qo‘yib Publish qilish. AIga ishchi workspace havolasi emas, nashr qilingan sahifa havolasi beriladi.
-
-GitHub Gistdagi Secret holat qidiruvdan yashiradi, lekin havolani bilgan odam o‘qiy oladi; bu private saqlash emas. Matn nusxalaridan shaxsiy obuna, joriy foydalanish foizlari va reset tafsilotlari olib tashlangan. Ism, telefon, email, parol yoki API kaliti kiritilmagan. Asl tashkilotchi PDFlarida rasmiy shaxslar imzolari va muhrlar bor.
+Asl PDF va OCRlar dalil sifatida saqlanadi. Imzoli qaror, saytdagi tahrir va loyiha maqomi birlashtirilmaydi. Shaxsiy parol, obuna tafsiloti yoki API kaliti bu to‘plamga qo‘shilmaydi.
 
 ## Yangi AIga beriladigan so‘rov
 
 ```text
 Quyidagi havoladagi ai.md to‘liq kontekstini ochib o‘qi:
-[nashr qilingandan keyingi haqiqiy havola]
+https://azizbeksafarov.github.io/ustoz/ai.md
 
 Tasdiqlangan qoidalar, loyiha takliflari va hali noma’lum holatlarni ajrat.
 Tushunganingni qisqa ayt. Keyin men haqiqiy bilet, materiallar,

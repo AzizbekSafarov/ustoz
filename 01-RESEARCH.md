@@ -1,5 +1,7 @@
 # Ustoz AI — “Zamonaviy kasblar”: tadqiqot va Samarqand bosqichiga tayyorgarlik
 
+> MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
+
 Tekshiruv sanasi: **2026-yil 9-oktabr**. Dashboard statistikasi: taxminan **19:10, Toshkent vaqti**. Asosiy yo‘nalish: **“Eng yaxshi veb-sayt”**. Mahalliy PDFlar, yuborilgan rasm va video matni, rasmiy internet e’lonlari, ochilgan dashboard hamda saytning ommaviy dastur fayllari o‘rganildi.
 
 **Asosiy natija:** Changan sovrini rasmiy e’lonlarda tasdiqlangan. Mahalliy batafsil baholash hujjati esa tasdiqqa taqdim etilgan loyiha; uning barcha texnik talablarini amaldagi qat’iy qoida deb olish mumkin emas. Siz bergan ma’lumot bo‘yicha Samarqand viloyat bosqichi 13-oktabrda; aniq bino, boshlanish soati va amaliy ish davomiyligi ochiq manbalarda tasdiqlanmadi.

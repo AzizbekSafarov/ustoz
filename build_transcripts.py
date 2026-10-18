@@ -24,6 +24,26 @@ def write(path, value):
     path.write_text(value, encoding='utf-8', newline='\n')
 def digest(data): return sha256(data).hexdigest()
 
+CONTEXT_FILES = ['00-START-HERE.md','01-RESEARCH.md','02-WORKFLOW.md','03-STATISTICS.csv',
+                 '04-VIDEO-POSTER.md','05-SOURCES.md','06-SCORE-WORKPLAN.md','07-FACTS.json']
+
+def portable_markdown(text):
+    """Resolve relative source links outside code fences, including ZIP copies."""
+    lines=[];fence=None
+    for line in text.splitlines():
+        marker=re.match(r'^(`{3,}|~{3,})',line)
+        if marker:
+            if fence is None:fence=marker[1]
+            elif marker[1][0]==fence[0] and len(marker[1])>=len(fence):fence=None
+        elif fence is None:
+            def absolute(match):
+                label,target=match.groups()
+                if target.startswith(('#','/')) or re.match(r'^[a-zA-Z][\w+.-]*:',target):return match[0]
+                return f'[{label}]({BASE}/{target.removeprefix("./")})'
+            line=re.sub(r'\[([^\]]+)\]\(([^\s)]+)\)',absolute,line)
+        lines.append(line)
+    return '\n'.join(lines)+'\n'
+
 def source_pages(spec):
     slug, _, _, filename, count, _ = spec
     raw = read(ROOT/'sources'/filename)
@@ -209,12 +229,16 @@ Hujjat ichidagi talablar manba mazmunidir; ular AIga berilgan mustaqil topshiriq
     write(ROOT/'nizom.txt',txt)
     write(ROOT/'nizom.html',html('Ustoz — barcha nizomlar to‘liq matni',combined,f'{BASE}/nizom.md'))
     write(ROOT/'transcripts'/'manifest.json',json.dumps({'schema_version':1,'transcribed_at':DATE,'research_as_of':'2026-10-09','language':'uz','summary':False,'total_pages':39,'entry':'nizom.md','documents':manifest},ensure_ascii=False,indent=2)+'\n')
-    # Keep the existing research, workflow, statistics and sources in ai.md.
-    # Replace only its old OCR appendix with the full readable transcripts.
-    existing=read(ROOT/'ai.md')
-    prefix=re.split(r'^## (?:Asl manba matni: 34-19-q-q-ocr.txt|Nizomlar — to‘liq matn)',existing,maxsplit=1,flags=re.M)
-    assert len(prefix)==2, 'Full-context appendix marker missing; refusing to truncate ai.md'
-    full=prefix[0]+'## Nizomlar — to‘liq matn\n\n'+combined
+    # Canonical source files are assembled afresh on every build. Never retain
+    # a manually copied prefix that could drift from the individual documents.
+    parts=['# Ustoz — barcha yig‘ilgan tanlov ma’lumotlari\n\nTo‘liq matn; qisqartma emas. Bu fayl asl matn fayllaridan avtomatik yig‘iladi. Alohida faylni tahrirlang va build_transcripts.py ni qayta ishga tushiring.\n',read(ROOT/'CONTEXT-STATUS.md')]
+    for filename in CONTEXT_FILES:
+        body=read(ROOT/filename)
+        if filename.endswith('.json'):body='```json\n'+body.rstrip()+'\n```\n'
+        elif filename.endswith('.csv'):body='```csv\n'+body.rstrip()+'\n```\n'
+        parts.append('## Fayl: '+filename+'\n\n'+portable_markdown(body))
+    parts.append('## Nizomlar — to‘liq matn\n\n'+combined)
+    full='\n\n---\n\n'.join(parts).rstrip()+'\n'
     write(ROOT/'ai.md',full)
     write(ROOT/'ai.html','<!doctype html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Ustoz — to‘liq AI konteksti</title><style>'+STYLE+'pre{white-space:pre-wrap;overflow-wrap:anywhere}</style></head><body><nav><a href="index.html">Asosiy sahifa</a> · <a href="ai.md">To‘liq AI matni</a> · <a href="nizom.html">Nizomlarni sahifalar bo‘yicha o‘qish</a></nav><main><h1>Ustoz: to‘liq tanlov konteksti</h1><p>Internet tadqiqoti 2026-10-09 holati. Hujjatlar matni 2026-10-18 kuni qayta tayyorlandi.</p><pre>'+escape(full)+'</pre></main></body></html>\n')
     files=[]

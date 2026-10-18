@@ -1,4 +1,6 @@
-# 13-oktabr uchun taklif qilingan birga ishlash tartibimiz
+# Tarixiy tayyorgarlik rejasi — 13-oktabr uchun takliflar
+
+> MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
 
 Sana: 2026-yil 9-oktabr. Yo‘nalish: “Eng yaxshi veb-sayt”, Samarqand viloyat bosqichi. Bu bizning tayyorgarlik rejamiz. Tashkilotchining tasdiqlangan bileti va texnik tartibi kelganda vaqt, vosita va topshirish usulini shunga moslaymiz.
 

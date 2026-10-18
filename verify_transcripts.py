@@ -5,7 +5,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
 from hashlib import sha256
 import re, json
-from build_transcripts import ROOT, BASE, SPECS, source_pages, read
+from build_transcripts import ROOT, BASE, SPECS, CONTEXT_FILES, source_pages, read, portable_markdown
 
 PDF_HASHES={
     '34-19-q-q.pdf':'e204c014af0427517abaaec53a423ee2ed70de628d6788c8d783d8abbbf5853d',
@@ -19,6 +19,13 @@ def check():
     combined=read(ROOT/'nizom.md')
     full=read(ROOT/'ai.md')
     assert combined in full
+    assert read(ROOT/'CONTEXT-STATUS.md') in full
+    for filename in CONTEXT_FILES:
+        body=read(ROOT/filename)
+        assert portable_markdown(body).strip() in full, ('Outdated combined context',filename)
+    assert portable_markdown('[PDF](sources/test.pdf)\n```text\n[example](keep.md)\n```\n') == '[PDF]('+BASE+'/sources/test.pdf)\n```text\n[example](keep.md)\n```\n'
+    facts=json.loads(read(ROOT/'07-FACTS.json'))
+    assert facts['scope']=='historical_research_snapshot'
     total=0
     for spec in SPECS:
         slug,title,pdf,raw,count,status=spec

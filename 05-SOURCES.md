@@ -1,5 +1,7 @@
 # Mahalliy va internet manbalari reyestri
 
+> MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
+
 Tekshirilgan ma’lumotlar 2026-yil 9-oktabr holatiga. Bir xil e’lonni ko‘chirgan norasmiy sahifalar yangi mustaqil tasdiq deb hisoblanmagan. Ko‘rsatilgan sanalar e’lon sanasi; ular tanlov bosqichining boshlanish sanasi bilan aralashtirilmaydi.
 
 ## Mahalliy manbalar

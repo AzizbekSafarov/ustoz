@@ -1,5 +1,7 @@
 # Ustoz AI: yangi AI yordamchisi uchun qisqa tanlov konteksti
 
+> MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
+
 Yangilangan: 2026-10-09. Til: o‘zbekcha. Bu hujjat tanlov faktlari va tayyorgarlik rejasini jamlaydi. U rasmiy bilet yoki tashkilotchining yakuniy texnik reglamenti emas. Ish boshlash uchun foydalanuvchining yangi topshirig‘i, haqiqiy bilet va ajratilgan vaqt kerak.
 
 ## Tanlov
@@ -7,7 +9,7 @@ Yangilangan: 2026-10-09. Til: o‘zbekcha. Bu hujjat tanlov faktlari va tayyorga
 - “Besh tashabbus olimpiadasi” doirasidagi “Zamonaviy kasblar”, asosiy yo‘nalish: “Eng yaxshi veb-sayt”. Boshqa yo‘nalishlar: grafik dizayn, mobilografiya.
 - Uch bosqich: tuman/shahar, hududiy/viloyat, respublika. Mahalliy nizomda keyingi bosqichga 1-o‘rin o‘tishi belgilangan.
 - 14–30 yosh, tegishli Ustoz AI kursi sertifikati. Veb yo‘nalish uchun Saytlar yasash, AI orqali dasturlar yasash yoki Mobil ilova yasash kurslari.
-- Ishtirokchi bergan ma’lumot bo‘yicha Samarqand hududiy bosqichi 2026-yil 13-oktabrda. Ochiq manbalarda bino, boshlanish soati va amaliy vaqt tasdiqlanmagan.
+- Ishtirokchining 2026-10-09 xabarida Samarqand hududiy bosqichi 2026-10-13 uchun rejalashtirilgani aytilgan. Bu tarixiy xabar; o‘tkazilgani yoki natijasi ushbu paketda tasdiqlanmagan. Ochiq manbalarda bino, boshlanish soati va amaliy vaqt tasdiqlanmagan.
 - Changan bosh sovrini rasmiy tasdiqlangan. Kasbiy ta’lim agentligi 1-o‘rin sohiblari uchun 3 ta Changan Uni-E e’lon qilgan. Har viloyatda avtomobil berilishi e’lon qilinmagan.
 
 ## Manbalar maqomi

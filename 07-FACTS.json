@@ -1,4 +1,8 @@
 {
+  "scope": "historical_research_snapshot",
+  "package_edited_at": "2026-10-18",
+  "current_stage_and_results": "unknown; the 2026-10-13 stage date was participant-reported before the event, not a current or verified outcome",
+  "context_status_url": "https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md",
   "checked_date": "2026-10-09",
   "statistics_observed_at_approx": "2026-10-09T19:10:00+05:00",
   "statistics_source": "https://ustoz.ai/tanlov/dashboard",
