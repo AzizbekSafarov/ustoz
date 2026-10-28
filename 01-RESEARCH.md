@@ -1,5 +1,7 @@
 # Ustoz AI — “Zamonaviy kasblar”: tadqiqot va Samarqand bosqichiga tayyorgarlik
 
+> JORIY YANGILANISH: [2026-10-28 tekshiruvi](08-CURRENT.md). Quyidagi 2026-10-09 qaydlari tarixiy; yangi statistika, sovrinlar va portal holati alohida manbada.
+
 > MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
 
 Tekshiruv sanasi: **2026-yil 9-oktabr**. Dashboard statistikasi: taxminan **19:10, Toshkent vaqti**. Asosiy yo‘nalish: **“Eng yaxshi veb-sayt”**. Mahalliy PDFlar, yuborilgan rasm va video matni, rasmiy internet e’lonlari, ochilgan dashboard hamda saytning ommaviy dastur fayllari o‘rganildi.

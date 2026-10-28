@@ -1,6 +1,6 @@
 # Ustoz — tanlovning to‘liq konteksti
 
-Mahalliy fayllar va rasmiy internet manbalaridan yig‘ilgan ma’lumotlar. Yangilangan: **2026-10-09**. Yo‘nalish: “Eng yaxshi veb-sayt”, “Zamonaviy kasblar”. Qisqa izohlar bilan birga asl manbalar va to‘liq o‘qilgan matnlar saqlangan.
+Mahalliy fayllar va rasmiy internet manbalaridan yig‘ilgan ma’lumotlar. Yangilangan: **2026-10-28**. Yo‘nalish: “Eng yaxshi veb-sayt”, “Zamonaviy kasblar”. Qisqa izohlar bilan birga asl manbalar va to‘liq o‘qilgan matnlar saqlangan.
 
 Asosiy sahifa: **https://azizbeksafarov.github.io/ustoz/**. GitHub manzili: **https://github.com/AzizbekSafarov/ustoz**.
 
@@ -33,6 +33,10 @@ Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_
 - **ai.md / ai.html** — yuqoridagi ma’lumotlar va uch PDFning o‘qilgan matnlari bir joyda.
 - **sources/** — foydalanuvchi taqdim etgan ikki mahalliy PDF va saytdan olingan nizom nusxasi. Mahalliy fayllar tayyorgarlik materiallaridir; 11 betlik mezonlar tasdiqqa taqdim etilgan loyiha.
 - **MANIFEST.json** — paket fayllari, o‘lchamlari va SHA-256 tekshirish qiymatlari.
+
+## Joriy yangilanish
+
+[08-CURRENT.md](08-CURRENT.md) va [09-CURRENT-FACTS.json](09-CURRENT-FACTS.json): yangi portal/backend, 21 020 ariza, natija yozuvlari, rasmiy 75/50 mln sovrinlar va PDF qayta tekshiruvi. Eski 9-oktabr tadqiqoti to‘liq tarixiy saqlangan.
 
 ## Ma’lumotlarni to‘g‘ri talqin qilish
 

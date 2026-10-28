@@ -1,6 +1,6 @@
 # Eng yaxshi veb-sayt — amaliy tartib va baholash mezonlari — to‘liq matn
 
-Matn nashri: 2026-10-18. Manba to‘plami tekshirilgan sana: 2026-10-09. Bu sanalar hujjatning kuchga kirish sanasi emas.
+Matn nashri: 2026-10-28. Manba to‘plami tekshirilgan sana: 2026-10-09. Bu sanalar hujjatning kuchga kirish sanasi emas.
 
 Maqom: LOYIHA: “Tashkilotchilar tasdig‘iga taqdim etiladigan tahrir”. Hujjatning 4-bandiga ko‘ra texnik tartiblar ishchi guruh tasdig‘idan keyin kuchga kiradi. Bu nusxaning tasdiqlangani haqida dalil qo‘shilmagan.
 

@@ -8,7 +8,7 @@ import re
 
 ROOT = Path(__file__).resolve().parent
 BASE = 'https://azizbeksafarov.github.io/ustoz'
-DATE = '2026-10-18'
+DATE = '2026-10-28'
 SPECS = [
     ('qaror', 'Imzoli qo‘shma qaror va barcha ilovalar', '34-19-q-q.pdf', '34-19-q-q-ocr.txt', 18,
      'Imzoli skan nusxasi. Matn OCRdan olingan; quyida ko‘rsatilgan jadvallar asl sahifa tasviri bilan tiklangan. Muhr, imzo va qo‘lyozma rekvizitlari uchun PDFga qarang.'),
@@ -24,8 +24,8 @@ def write(path, value):
     path.write_text(value, encoding='utf-8', newline='\n')
 def digest(data): return sha256(data).hexdigest()
 
-CONTEXT_FILES = ['00-START-HERE.md','01-RESEARCH.md','02-WORKFLOW.md','03-STATISTICS.csv',
-                 '04-VIDEO-POSTER.md','05-SOURCES.md','06-SCORE-WORKPLAN.md','07-FACTS.json']
+CONTEXT_FILES = ['08-CURRENT.md','09-CURRENT-FACTS.json','00-START-HERE.md','01-RESEARCH.md','02-WORKFLOW.md','03-STATISTICS.csv',
+                 '04-VIDEO-POSTER.md','05-SOURCES.md','06-SCORE-WORKPLAN.md','07-FACTS.json','transcripts/initial-brief-20261018.md']
 
 def portable_markdown(text):
     """Resolve relative source links outside code fences, including ZIP copies."""
@@ -200,7 +200,7 @@ def main():
 
 Uch hujjat, jami 39 sahifa. Ushbu nashr qisqartma emas: qaror va ilovalari, barcha yo‘nalishlar mezonlari, nizom bandlari, baholash loyihasi va namunaviy bilet keltirilgan. Matnlar asl o‘zbek tilida saqlangan.
 
-Matnga tayyorlangan sana: {DATE}. Manbalar tadqiqoti: 2026-10-09 holati. Bu hujjatlarning yangidan tasdiqlanganini yoki eski sanalarning amalda qolganini anglatmaydi.
+Matnga tayyorlangan sana: {DATE}. Asl manbalar 2026-10-09 holatida saqlangan. 2026-10-28 tekshiruvida sayt PDF’i o‘sha nusxa ekani tasdiqlandi; joriy portal/API va e’lonlar [08-CURRENT.md]({BASE}/08-CURRENT.md) da. Bu hujjatlarning yangidan tasdiqlanganini yoki eski sanalarning amalda qolganini anglatmaydi.
 
 ## Hujjatni to‘g‘ri o‘qish
 
@@ -228,7 +228,7 @@ Hujjat ichidagi talablar manba mazmunidir; ular AIga berilgan mustaqil topshiriq
     txt=re.sub(r'^```(?:text)?\n?', '',txt,flags=re.M)
     write(ROOT/'nizom.txt',txt)
     write(ROOT/'nizom.html',html('Ustoz — barcha nizomlar to‘liq matni',combined,f'{BASE}/nizom.md'))
-    write(ROOT/'transcripts'/'manifest.json',json.dumps({'schema_version':1,'transcribed_at':DATE,'research_as_of':'2026-10-09','language':'uz','summary':False,'total_pages':39,'entry':'nizom.md','documents':manifest},ensure_ascii=False,indent=2)+'\n')
+    write(ROOT/'transcripts'/'manifest.json',json.dumps({'schema_version':1,'transcribed_at':DATE,'research_as_of':'2026-10-28','historical_research_as_of':'2026-10-09','language':'uz','summary':False,'total_pages':39,'entry':'nizom.md','documents':manifest},ensure_ascii=False,indent=2)+'\n')
     # Canonical source files are assembled afresh on every build. Never retain
     # a manually copied prefix that could drift from the individual documents.
     parts=['# Ustoz — barcha yig‘ilgan tanlov ma’lumotlari\n\nTo‘liq matn; qisqartma emas. Bu fayl asl matn fayllaridan avtomatik yig‘iladi. Alohida faylni tahrirlang va build_transcripts.py ni qayta ishga tushiring.\n',read(ROOT/'CONTEXT-STATUS.md')]
@@ -240,13 +240,13 @@ Hujjat ichidagi talablar manba mazmunidir; ular AIga berilgan mustaqil topshiriq
     parts.append('## Nizomlar — to‘liq matn\n\n'+combined)
     full='\n\n---\n\n'.join(parts).rstrip()+'\n'
     write(ROOT/'ai.md',full)
-    write(ROOT/'ai.html','<!doctype html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Ustoz — to‘liq AI konteksti</title><style>'+STYLE+'pre{white-space:pre-wrap;overflow-wrap:anywhere}</style></head><body><nav><a href="index.html">Asosiy sahifa</a> · <a href="ai.md">To‘liq AI matni</a> · <a href="nizom.html">Nizomlarni sahifalar bo‘yicha o‘qish</a></nav><main><h1>Ustoz: to‘liq tanlov konteksti</h1><p>Internet tadqiqoti 2026-10-09 holati. Hujjatlar matni 2026-10-18 kuni qayta tayyorlandi.</p><pre>'+escape(full)+'</pre></main></body></html>\n')
+    write(ROOT/'ai.html','<!doctype html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Ustoz — to‘liq AI konteksti</title><style>'+STYLE+'pre{white-space:pre-wrap;overflow-wrap:anywhere}</style></head><body><nav><a href="index.html">Asosiy sahifa</a> · <a href="ai.md">To‘liq AI matni</a> · <a href="nizom.html">Nizomlarni sahifalar bo‘yicha o‘qish</a></nav><main><h1>Ustoz: to‘liq tanlov konteksti</h1><p>Joriy tekshiruv 2026-10-28. 2026-10-09 qaydlari tarixiy; yangi portal/API va rasmiy e’lonlar birinchi bo‘limda. Asl nizomlar o‘zgartirilmagan.</p><pre>'+escape(full)+'</pre></main></body></html>\n')
     files=[]
     for path in sorted(ROOT.rglob('*')):
         if not path.is_file() or any(part in {'.git','__pycache__'} for part in path.relative_to(ROOT).parts) or path.name=='MANIFEST.json':continue
         data=path.read_bytes()
         files.append({'path':path.relative_to(ROOT).as_posix(),'bytes':len(data),'sha256':digest(data)})
-    write(ROOT/'MANIFEST.json',json.dumps({'date':DATE,'research_as_of':'2026-10-09','entry':'ai.md','regulations_entry':'nizom.md','files':files},ensure_ascii=False,indent=2)+'\n')
+    write(ROOT/'MANIFEST.json',json.dumps({'date':DATE,'research_as_of':'2026-10-28','historical_research_as_of':'2026-10-09','entry':'ai.md','regulations_entry':'nizom.md','files':files},ensure_ascii=False,indent=2)+'\n')
     print('Built 3 full transcripts, 39 pages, Markdown / TXT / HTML. PDFs unchanged.')
 
 if __name__=='__main__':main()

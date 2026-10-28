@@ -1,6 +1,6 @@
 # Ustoz AI saytidagi nizom — to‘liq matn
 
-Matn nashri: 2026-10-18. Manba to‘plami tekshirilgan sana: 2026-10-09. Bu sanalar hujjatning kuchga kirish sanasi emas.
+Matn nashri: 2026-10-28. Manba to‘plami tekshirilgan sana: 2026-10-09. Bu sanalar hujjatning kuchga kirish sanasi emas.
 
 Maqom: Saytdan 2026-10-09 kuni saqlangan tahrir. Imzoli qarordan farq qiladigan bandlari alohida versiya sifatida saqlandi.
 

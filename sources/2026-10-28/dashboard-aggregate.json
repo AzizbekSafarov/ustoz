@@ -1,0 +1,225 @@
+{
+  "observed_date": "2026-10-28",
+  "source_url": "https://zamonaviy.uproject.uz/api/v1/dashboard?days=30",
+  "http_status": 200,
+  "scope": "Sanitized aggregate snapshot. recentActivity intentionally omitted. Capture date does not establish source data freshness.",
+  "aggregate": {
+    "kpis": {
+      "totalRegistered": {
+        "value": 21020,
+        "changePercent": 0
+      },
+      "regionsCount": {
+        "value": 14
+      },
+      "districtsCount": {
+        "value": 2096
+      },
+      "todayNew": {
+        "value": 0,
+        "changePercent": 0
+      }
+    },
+    "dailyRegistrations": {
+      "days": 30,
+      "points": [
+        {
+          "date": "2026-09-29",
+          "count": 2036
+        },
+        {
+          "date": "2026-09-30",
+          "count": 2284
+        },
+        {
+          "date": "2026-10-01",
+          "count": 32
+        },
+        {
+          "date": "2026-10-02",
+          "count": 17
+        },
+        {
+          "date": "2026-10-03",
+          "count": 0
+        },
+        {
+          "date": "2026-10-04",
+          "count": 0
+        },
+        {
+          "date": "2026-10-05",
+          "count": 0
+        },
+        {
+          "date": "2026-10-06",
+          "count": 3
+        },
+        {
+          "date": "2026-10-07",
+          "count": 0
+        },
+        {
+          "date": "2026-10-08",
+          "count": 0
+        },
+        {
+          "date": "2026-10-09",
+          "count": 0
+        },
+        {
+          "date": "2026-10-10",
+          "count": 16
+        },
+        {
+          "date": "2026-10-11",
+          "count": 0
+        },
+        {
+          "date": "2026-10-12",
+          "count": 0
+        },
+        {
+          "date": "2026-10-13",
+          "count": 0
+        },
+        {
+          "date": "2026-10-14",
+          "count": 5
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
+        },
+        {
+          "date": "2026-10-16",
+          "count": 0
+        },
+        {
+          "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
+        },
+        {
+          "date": "2026-10-19",
+          "count": 0
+        },
+        {
+          "date": "2026-10-20",
+          "count": 0
+        },
+        {
+          "date": "2026-10-21",
+          "count": 0
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0
+        },
+        {
+          "date": "2026-10-23",
+          "count": 0
+        },
+        {
+          "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
+        },
+        {
+          "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
+        },
+        {
+          "date": "2026-10-28",
+          "count": 0
+        }
+      ]
+    },
+    "byTrack": {
+      "total": 21020,
+      "items": [
+        {
+          "key": "web",
+          "name": "Eng yaxshi veb-sayt",
+          "count": 6019,
+          "percent": 28.6
+        },
+        {
+          "key": "design",
+          "name": "Eng yaxshi grafik dizayn",
+          "count": 8002,
+          "percent": 38.1
+        },
+        {
+          "key": "mobi",
+          "name": "Eng yaxshi mobilografiya ishi",
+          "count": 6999,
+          "percent": 33.3
+        }
+      ]
+    },
+    "topRegions": [
+      {
+        "rank": 1,
+        "hudud": "Toshkent shahri",
+        "count": 3501
+      },
+      {
+        "rank": 2,
+        "hudud": "Surxondaryo viloyati",
+        "count": 2618
+      },
+      {
+        "rank": 3,
+        "hudud": "Farg'ona viloyati",
+        "count": 2553
+      },
+      {
+        "rank": 4,
+        "hudud": "Qoraqalpog'iston Respublikasi",
+        "count": 2007
+      },
+      {
+        "rank": 5,
+        "hudud": "Buxoro viloyati",
+        "count": 1794
+      }
+    ],
+    "byAge": [
+      {
+        "key": "14-17",
+        "label": "14–17",
+        "count": 3633,
+        "percent": 17.3
+      },
+      {
+        "key": "18-22",
+        "label": "18–22",
+        "count": 7868,
+        "percent": 37.4
+      },
+      {
+        "key": "23-26",
+        "label": "23–26",
+        "count": 5469,
+        "percent": 26
+      },
+      {
+        "key": "27+",
+        "label": "27+",
+        "count": 4050,
+        "percent": 19.3
+      }
+    ]
+  }
+}

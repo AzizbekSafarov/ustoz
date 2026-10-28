@@ -64,3 +64,18 @@ API bazasi: `https://api.ustozaibot.uz/api/v1`. Frontenddagi yo‘llar: `POST /a
 Samarqandning aniq bino/zal va soati; amaliy ishning aniq limiti; finalning yangi sanasi; hududiy yakuniy tarkib; tasdiqlangan texnik tahrir; hisoblar/model/limitlarni tenglashtirish; topshirish kanali; yangilangan 2–3-o‘rin mukofotlari; avtomobil komplektatsiyasi va topshirish tafsilotlari. Bu joylar taxmin bilan to‘ldirilmagan.
 
 Fayllar yaxlitligi va statistik faktlar [07-FACTS.json](07-FACTS.json) da. Bayonlar va tafovutlar [01-RESEARCH.md](01-RESEARCH.md) da batafsil.
+
+
+## 2026-10-28 joriy tekshiruv manbalari
+
+- https://zamonaviykasblar2026.uz/ — foydalanuvchi bergan yangi portal; HTML fallback va API holati farqi 08-CURRENT.md’da.
+- https://zamonaviy.uproject.uz/api/v1/dashboard?days=30 — agregat statistika; recentActivity/person maydonlari nusxaga kiritilmadi.
+- https://europe-west1-ustoz-ai-zamonaviy-kasblar.cloudfunctions.net/publicStats — mahalla bo‘yicha agregatlar.
+- Portal ishlatadigan Firestore winners/eventLocations — faqat read-only count va cheklangan region/direction proyeksiyasi. Shaxsiy yozuvlar eksport qilinmadi.
+- https://digital.gov.uz/oz/digital/news/view/234986 — 16-oktabr vazirlik xabari, 75/50 mln va Changan UNI-E.
+- https://t.me/ustozai/3439 — 20-oktabr Farg‘ona hududiy bosqichi tugagani haqidagi xabar.
+- https://t.me/ustozai/3445 — 20-oktabr uch Changan va 75/50 mln haqidagi xabar.
+- https://gov.uz/oz/yaypan/news/view/229498 — 7-oktabr 6 mezon/100 ball amaliyoti.
+- https://ustoz.ai/tanlov/nizom.pdf — qayta olingan nusxa avvalgi hash bilan bir xil.
+
+Sanitizatsiyalangan JSON va fingerprintlar `sources/2026-10-28/` ichida. Snapshot sanasi ma’lumotning oxirgi server tahriri deb olinmaydi. Portal egasi qayta havola orqali mustaqil tasdiqlanmadi; frontend xavfsizlik kodi to‘liq server auditini almashtirmaydi.

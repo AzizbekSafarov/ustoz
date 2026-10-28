@@ -1,0 +1,239 @@
+{
+  "observed_date": "2026-10-28",
+  "source_url": "https://europe-west1-ustoz-ai-zamonaviy-kasblar.cloudfunctions.net/publicStats",
+  "scope": "Aggregate mahalla counts only; updatedAt is the response field, not independently verified data-update time.",
+  "aggregate": {
+    "topMahallas": {
+      "total": 21020,
+      "all": [
+        {
+          "mahalla": "Qozirobod",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 148,
+          "tracks": {
+            "web": 39,
+            "design": 48,
+            "mobile": 61
+          }
+        },
+        {
+          "mahalla": "2-Charx Kamolon",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 118,
+          "tracks": {
+            "web": 39,
+            "design": 46,
+            "mobile": 33
+          }
+        },
+        {
+          "mahalla": "Kattabog'",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 118,
+          "tracks": {
+            "web": 40,
+            "design": 77,
+            "mobile": 1
+          }
+        },
+        {
+          "mahalla": "Sarxumdon",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 114,
+          "tracks": {
+            "web": 0,
+            "design": 114,
+            "mobile": 0
+          }
+        },
+        {
+          "mahalla": "O'rda",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 101,
+          "tracks": {
+            "web": 38,
+            "design": 22,
+            "mobile": 41
+          }
+        }
+      ],
+      "web": [
+        {
+          "mahalla": "Shayxontohur",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 97,
+          "tracks": {
+            "web": 97,
+            "design": 0,
+            "mobile": 1
+          }
+        },
+        {
+          "mahalla": "Suzukota",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 80,
+          "tracks": {
+            "web": 80,
+            "design": 10,
+            "mobile": 2
+          }
+        },
+        {
+          "mahalla": "Bo'ston",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 62,
+          "tracks": {
+            "web": 62,
+            "design": 2,
+            "mobile": 5
+          }
+        },
+        {
+          "mahalla": "3-Charx Kamolon",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 55,
+          "tracks": {
+            "web": 55,
+            "design": 11,
+            "mobile": 25
+          }
+        },
+        {
+          "mahalla": "Kattabog'",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 40,
+          "tracks": {
+            "web": 40,
+            "design": 77,
+            "mobile": 1
+          }
+        }
+      ],
+      "design": [
+        {
+          "mahalla": "Sarxumdon",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 114,
+          "tracks": {
+            "web": 0,
+            "design": 114,
+            "mobile": 0
+          }
+        },
+        {
+          "mahalla": "Kattabog'",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 77,
+          "tracks": {
+            "web": 40,
+            "design": 77,
+            "mobile": 1
+          }
+        },
+        {
+          "mahalla": "Qozirobod",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 48,
+          "tracks": {
+            "web": 39,
+            "design": 48,
+            "mobile": 61
+          }
+        },
+        {
+          "mahalla": "2-Charx Kamolon",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 46,
+          "tracks": {
+            "web": 39,
+            "design": 46,
+            "mobile": 33
+          }
+        },
+        {
+          "mahalla": "2 Qatortol",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 30,
+          "tracks": {
+            "web": 39,
+            "design": 30,
+            "mobile": 31
+          }
+        }
+      ],
+      "mobile": [
+        {
+          "mahalla": "Qozirobod",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 61,
+          "tracks": {
+            "web": 39,
+            "design": 48,
+            "mobile": 61
+          }
+        },
+        {
+          "mahalla": "Ko'tarma",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 55,
+          "tracks": {
+            "web": 1,
+            "design": 0,
+            "mobile": 55
+          }
+        },
+        {
+          "mahalla": "O'rda",
+          "district": "Shayxontohur",
+          "region": "Toshkent shahri",
+          "count": 41,
+          "tracks": {
+            "web": 38,
+            "design": 22,
+            "mobile": 41
+          }
+        },
+        {
+          "mahalla": "Cho'pon ota",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 35,
+          "tracks": {
+            "web": 12,
+            "design": 22,
+            "mobile": 35
+          }
+        },
+        {
+          "mahalla": "2-Charx Kamolon",
+          "district": "Chilonzor",
+          "region": "Toshkent shahri",
+          "count": 33,
+          "tracks": {
+            "web": 39,
+            "design": 46,
+            "mobile": 33
+          }
+        }
+      ],
+      "updatedAt": "2026-10-28T15:33:55.273Z"
+    }
+  }
+}

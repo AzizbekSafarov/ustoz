@@ -1,0 +1,33 @@
+{
+  "observed_date": "2026-10-28",
+  "source_site": "https://zamonaviykasblar2026.uz/",
+  "public_collection_counts": {
+    "tuman": {
+      "count": 429,
+      "read_time": "2026-10-28T15:33:56.001134Z"
+    },
+    "hududiy": {
+      "count": 3,
+      "read_time": "2026-10-28T15:33:56.614687Z"
+    },
+    "respublika": {
+      "count": 0,
+      "read_time": "2026-10-28T15:33:57.158362Z"
+    }
+  },
+  "event_locations": {
+    "count": 0,
+    "has_next_page": false
+  },
+  "regional_projection": {
+    "region": "Farg‘ona viloyati",
+    "first_place_directions": [
+      "web",
+      "design",
+      "mobile"
+    ],
+    "records": 3
+  },
+  "scope": "Public read-only aggregates; no write/authentication/private account/complaint records accessed. Counts are stored records, not unique/approved participants.",
+  "personal_data_saved": false
+}

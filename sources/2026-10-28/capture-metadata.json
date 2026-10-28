@@ -1,0 +1,24 @@
+{
+  "observed_date": "2026-10-28",
+  "sources": {
+    "portal-html": {
+      "source_url": "https://zamonaviykasblar2026.uz/",
+      "http_status": 200,
+      "bytes": 116275,
+      "sha256": "3a94ca85d4c10ada50a10d83adc4cfa677051066d9c4f3bd65b718522d8f3109"
+    },
+    "portal-app-js": {
+      "source_url": "https://zamonaviykasblar2026.uz/assets/index-score40.js",
+      "http_status": 200,
+      "bytes": 413074,
+      "sha256": "808b628b73ee79bbdc90863369104f77338a7a7cbc97f06e14bc3862f2b13f5e"
+    },
+    "current-regulation": {
+      "source_url": "https://ustoz.ai/tanlov/nizom.pdf",
+      "http_status": 200,
+      "bytes": 216735,
+      "sha256": "b96018da0184cbabc5cd09a1864abcd895b68441a9f503b5bec6ff8ff71f378e"
+    }
+  },
+  "note": "Only metadata is saved for HTML/JS; public Firebase config/third-party keys and person records are not copied."
+}
