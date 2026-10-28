@@ -27,8 +27,8 @@
     },
     {
       "path": "02-WORKFLOW.md",
-      "bytes": 13428,
-      "sha256": "192be4c63bb2d54380b0bfc76e9d8a64a2f7982be904212e4ae4abc0f8bc8166"
+      "bytes": 13544,
+      "sha256": "27d809f9b36b62d709d115ac9ae3cc9ec23fe695d5a303f4e789215948889522"
     },
     {
       "path": "03-STATISTICS.csv",
@@ -72,13 +72,13 @@
     },
     {
       "path": "ai.html",
-      "bytes": 208444,
-      "sha256": "4a236dbf4704e5a4421233fe42409c6c949b0ff188238e008f86b202e84e20c8"
+      "bytes": 208560,
+      "sha256": "67a3942e29f95bf75246e2cb4951152c3cbae9c0e5ecb6db668a8c601927794d"
     },
     {
       "path": "ai.md",
-      "bytes": 199716,
-      "sha256": "b69e945a1f02cc15248119d3e2f9c93d5d69d2afcdf582f2c48843d4f39c4d85"
+      "bytes": 199832,
+      "sha256": "a01c5fd806b9f5ce3c77ec00ba573dce61bc6b24b30b8fd43b90eb709a7e5db9"
     },
     {
       "path": "build_transcripts.py",
@@ -112,8 +112,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4983,
-      "sha256": "e024ede4dc0d0829fb697e0018c39909eaa5c15ed03121caca6ddfb7d604cdc1"
+      "bytes": 5059,
+      "sha256": "476283c96f8bcacce809a23787d0a68685dcce5028f504fd69b659548a9b0eca"
     },
     {
       "path": "sources/2026-10-28/capture-metadata.json",

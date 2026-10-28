@@ -63,4 +63,4 @@ ajratilgan vaqt va joydagi akkaunt cheklovlarini beraman.
 Asl manbani tekshirish kerak bo‘lsa sources/ ichidagi PDFlarni o‘qi.
 ```
 
-Havola ochilmasa, 00-START-HERE.md matnini chatga qo‘yish yoki faylini yuklash mumkin. Qisqa kontekstdan boshlash to‘liq hisobotni har safar o‘qitishga nisbatan kamroq matn talab qiladi; aniq sarf AI xizmatiga bog‘liq.
+Havola ochilmasa, 00-START-HERE.md faqat mundarija sifatida beriladi. To‘liq o‘qish so‘ralganda uni to‘liq kontekst o‘rniga ishlatmang: tanlangan dizayn ZIPidagi FULL-COMPETITION-CONTEXT.md va REGULATIONS.md yoki yuklab olingan to‘liq matnni bering. AI o‘qilmagan qismni ochiq qayd etadi.
