@@ -74,7 +74,7 @@
       "source_text": "sources/veb-mezonlari-text.txt",
       "source_text_sha256": "9c5690d6db23244b94940992ab52b29d8fddc5c5502feeebd79e5329951d8d47",
       "markdown": "transcripts/mezon.md",
-      "markdown_sha256": "55e11fb7f8f1dd8b413c0953ddc220218b9d1536ed100150affe5a449e733453",
+      "markdown_sha256": "fc245ac8004508fe758889a6c297ee785871964eae8509f6a35326d01fbbf69b",
       "page_anchors": [
         "mezon-p01",
         "mezon-p02",

@@ -6,7 +6,7 @@
 
 Tekshiruv sanasi: **2026-yil 9-oktabr**. Dashboard statistikasi: taxminan **19:10, Toshkent vaqti**. Asosiy yo‘nalish: **“Eng yaxshi veb-sayt”**. Mahalliy PDFlar, yuborilgan rasm va video matni, rasmiy internet e’lonlari, ochilgan dashboard hamda saytning ommaviy dastur fayllari o‘rganildi.
 
-**Asosiy natija:** Changan sovrini rasmiy e’lonlarda tasdiqlangan. Mahalliy batafsil baholash hujjati esa tasdiqqa taqdim etilgan loyiha; uning barcha texnik talablarini amaldagi qat’iy qoida deb olish mumkin emas. Siz bergan ma’lumot bo‘yicha Samarqand viloyat bosqichi 13-oktabrda; aniq bino, boshlanish soati va amaliy ish davomiyligi ochiq manbalarda tasdiqlanmadi.
+**Asosiy natija:** Changan sovrini rasmiy e’lonlarda tasdiqlangan. Mahalliy batafsil baholash hujjati esa tasdiqqa taqdim etilgan loyiha; uning barcha texnik talablarini amaldagi qat’iy qoida deb olish mumkin emas. 2026-10-09 ishtirokchi xabarida Samarqand viloyat bosqichi 13-oktabr uchun rejalashtirilgan edi; bu joriy sana/bosqich emas. O‘sha tekshiruvda bino, boshlanish soati va amaliy vaqt tasdiqlanmadi.
 
 Bizning amaliy ish tartibimiz alohida faylda: [Tanlovda birga ishlash](02-WORKFLOW.md).
 
@@ -61,7 +61,7 @@ Ro‘yxatdan o‘tish sahifasi hozir qabul yakunlanganini va 30-sentabr muddatin
 
 **28-sentabr rasmiy davlat xabarida uchta Changan avtomobili e’lon qilingan.** Kasbiy ta’lim agentligi xabarida model **“Changan Uni-E”**, oluvchilar esa **1-o‘rin sohiblari** deb ko‘rsatilgan. [Davlat xabari](https://gov.uz/oz/wcu/news/view/225579), [Kasbiy ta’lim agentligi e’loni](https://t.me/kasb_edu/2763).
 
-Uch yo‘nalish va uch avtomobil e’loniga qarab, har yo‘nalishning yakuniy g‘olibiga bittadan avtomobil ajratilishi tushuniladi; bu taqsimot haqidagi xulosa e’lonlar va tanlov tuzilmasiga tayangan. **13-oktabr viloyat bosqichidagi asosiy maqsadimiz — respublika bosqichiga yo‘llanma.** Har bir viloyatda avtomobil beriladi degan ma’lumot topilmadi.
+Uch yo‘nalish va uch avtomobil e’loniga qarab, har yo‘nalishning yakuniy g‘olibiga bittadan avtomobil ajratilishi tushuniladi; bu taqsimot haqidagi xulosa e’lonlar va tanlov tuzilmasiga tayangan. **2026-10-09 holatidagi maqsad 13-oktabrga rejalashtirilgan viloyat bosqichidan respublikaga yo‘llanma olish edi; bugungi bosqich yoki natija shu gapdan aniqlanmaydi.** Har bir viloyatda avtomobil beriladi degan ma’lumot topilmadi.
 
 Mahalliy qarordagi dastlabki sovrinlar quyidagicha; yangi e’lonlarga mosligi alohida tekshirilishi kerak:
 
@@ -95,7 +95,7 @@ Mahalliy qaror 15 daqiqalik himoyani **5 daqiqa taqdimot + 5 daqiqa funksional n
 | Hududiy | Kamida 3 sahifa yoki teng hajmdagi ekran, 2 bog‘liq amal, kiritishni tekshirish va natija | Taxminan 2 soat |
 | Respublika | Kamida 4 sahifa/ekran, 3 bog‘liq amal, saqlash, bo‘sh va xato holatlari | Taxminan 4 soat |
 
-Hujjat hududiy va respublika vaqtini namunaviy sinovdan keyin aniqlashni aytadi. **Shuning uchun 120 daqiqani mashq rejimi sifatida olamiz; 13-oktabrning tasdiqlangan vaqt limiti sifatida emas.** [Mezonlar loyihasi](sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf), 3-bet, 12–14-bandlar.
+Hujjat hududiy va respublika vaqtini namunaviy sinovdan keyin aniqlashni aytadi. **Loyihadagi 120 daqiqa joriy amaliy vaqtni belgilamaydi. Uni ish rejasi uchun avtomatik qabul qilmang; haqiqiy vaqt foydalanuvchi yoki tashkilotchining joriy ko‘rsatmasidan olinadi.** [Mezonlar loyihasi](sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf), 3-bet, 12–14-bandlar.
 
 Loyihada saytning o‘zida AI funksiyasi shart emasligi, kod/no-code/AI bilan brauzerda ishlaydigan mahsulot baholanishi aytilgan. Bezak rasmi yoki faqat telefonga o‘rnatiladigan ilova sayt o‘rniga olinmaydi. Bu foydali tayyorgarlik talqini; hujjatning tasdiq holati yuqorida ko‘rsatilgan. [Mezonlar loyihasi](sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf), 1-bet.
 
@@ -151,12 +151,12 @@ Quyidagi kichik ballar tasdiqqa taqdim etilgan 11 betlik hujjatdan; amaldagi eks
 
 | Masala | Mahalliy qaror | Sayt / video / mezonlar loyihasi | Tayyorgarlik qarori |
 |---|---|---|---|
-| Jadval | Iyul–avgust | Sayt PDFida avgust–sentabr; yangi e’lonlarda sentabr oxiri va oktabr faoliyati | Siz aytgan 13-oktabrga tayyorlanamiz; eski sanalarni hozirgi jadval deb olmaymiz. |
+| Jadval | Iyul–avgust | Sayt PDFida avgust–sentabr; yangi e’lonlarda sentabr oxiri va oktabr faoliyati | 13-oktabr oldingi ishtirokchi xabari edi; joriy jadval bu tarixiy manbalardan aniqlanmaydi. |
 | Bosh sovrin | Pul mukofotlari | 28-sentabr rasmiy e’lonlari: 3 Changan Uni-E | Changan e’loni tasdiqlangan; eski pullar ustiga qo‘shiladi deb aytmaymiz. |
 | Teng ball | Avval funksionallik, keyin **zamonaviy texnologiya** | Sayt PDFida avval funksionallik, keyin **kreativlik** | Birinchi mezonni kuchli qilamiz; texnologiya va kreativlikni ham namoyish qilamiz. Qaysi tahrir qo‘llanishi ochiq manbalardan aniq emas. |
 | Himoyadagi tahrir | Ekspert real vaqtda kichik matn/rang/element/kontent o‘zgarishini talab qilishi mumkin; bajara olmasa ish baholashdan chiqariladi | Sayt PDFida ushbu jumlalar yo‘q; mezonlar loyihasi himoyada tahrirni taqiqlaydi | Matn va rangni tez tahrirlashni mashq qilamiz; bu talabning hozirgi qo‘llanishi ziddiyatli. |
 | Akkaunt va tarif | Batafsil texnik tartib yo‘q | Video: o‘z akkauntini ulash. Loyiha: teng tarif/limitlar, shaxsiy pulli tarif yoki tashqi API krediti bilan ustunlik taqiqlanadi | Mavjud akkauntga kirishni tayyorlaymiz; tenglashtirishning joydagi rasmiy tartibiga amal qilamiz. Qimmat obuna olishni shart deb hisoblamaymiz. |
-| Amaliy vaqt | “Belgilangan vaqt”, aniq soat yo‘q | Loyiha: hududiy taxminan 2 soat, sinovdan keyin belgilanadi | 120 daqiqalik mashq; aniq vaqtga moslanadigan reja. |
+| Amaliy vaqt | “Belgilangan vaqt”, aniq soat yo‘q | Loyiha: hududiy taxminan 2 soat, sinovdan keyin belgilanadi | Joriy vaqt noma’lum; foydalanuvchi bergan haqiqiy vaqtga mos reja. |
 | Shablon va mustaqillik | Mustaqil ish va mualliflik huquqini buzmaslik | Video: g‘oya/shablon mumkin. Loyiha: oldindan tayyor to‘liq ishni topshirish va boshqa insondan yordam olish taqiqlanadi | Manbani qayd etib, mavzuga moslashtiramiz; o‘z ishimizni tushuntira olamiz. |
 
 Taqqoslash: [Qaror](sources/34-19-q-q.pdf), 11–17-betlar; [sayt nizomi](https://ustoz.ai/tanlov/nizom.pdf), 3–9-betlar; [mezonlar loyihasi](sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf), 1–3-betlar; siz yuborgan video matni.
@@ -225,7 +225,6 @@ Mahalliy rasmiy aloqa manbasi: [SAMARQANDLIK YOSHLAR — @yiasamyosh](https://t.
 
 Kerak bo‘lsa tashkilotchiga yuborish uchun tayyor matn, **hali yuborilmagan**:
 
-> Assalomu alaykum. Urgutdan “Eng yaxshi veb-sayt” yo‘nalishi bo‘yicha 13-oktabr Samarqand viloyat bosqichiga yo‘llanma olganman. Iltimos, aniq manzil va yig‘ilish soati, amaliy ish davomiyligi, yakuniy tasdiqlangan baholash/texnik reglament, shaxsiy Codex/Antigravity akkaunti va tarif-limitlar tartibi, loyihani topshirish usulini yuboring. Himoyada kichik tahrir so‘raladimi, teng ballda qaysi mezon ustuvor ekanini ham aniqlashtirsangiz.
 
 ## 11. Xalqaro AI xizmatlari: tanlovdan oldin nima tayyor bo‘lishi kerak?
 
@@ -254,6 +253,6 @@ Apellyatsiya bo‘yicha mahalliy hujjat quyidagilarni belgilaydi:
 
 ## 13. Tadqiqotning amaliy natijasi
 
-Biz mavzu berilgach majburiy amallarni ajratamiz, ishlaydigan kichik yechimni tez quramiz, xato va mobil holatlarni tekshiramiz, so‘ng uning foydasini va texnik tanlovlarni himoyada ko‘rsatamiz. 120 daqiqalik mashq va 15 daqiqalik himoya uchun aniq tartib, sinov ro‘yxati, qisqa so‘rovlar va 10–12-oktabr mashq jadvali [birga ishlash faylida](02-WORKFLOW.md).
+Ish tartibi joriy bilet va haqiqiy vaqtga moslanadi: majburiy amallar → ishlaydigan oqim → tegishli xato/mobil tekshiruvi → topshirish va himoya. [Birga ishlash fayli](02-WORKFLOW.md) hozir shu tartibni tushuntiradi; eski mashq kalendari va tayyor daqiqalik buyruqlar olib tashlangan.
 
 Qidiruv 2026-yilgi aynan shu tanlovga qaratildi. Internetdagi avvalgi yillardagi tanlovlar, boshqa tadbirlar va bir-birini ko‘chirgan xabarlar Samarqandning 13-oktabr manzili sifatida olinmadi. Topilmagan ma’lumotlar taxmin bilan to‘ldirilmadi.

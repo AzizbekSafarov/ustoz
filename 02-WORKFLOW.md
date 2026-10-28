@@ -1,12 +1,6 @@
-# Tarixiy tayyorgarlik rejasi — 13-oktabr uchun takliflar
+# Haqiqiy bilet bilan ishlash tartibi
 
-> JORIY YANGILANISH: [2026-10-28 tekshiruvi](08-CURRENT.md). Quyidagi 2026-10-09 qaydlari tarixiy; joriy nizom, amaliy tartib va ruxsatlar alohida tekshiruvda. Eski statistika yoki reja yangi talab emas.
-
-> MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
-
-Sana: 2026-yil 9-oktabr. Yo‘nalish: “Eng yaxshi veb-sayt”, Samarqand viloyat bosqichi. Bu bizning tayyorgarlik rejamiz. Tashkilotchining tasdiqlangan bileti va texnik tartibi kelganda vaqt, vosita va topshirish usulini shunga moslaymiz.
-
-Manbalar, sovrin, mezonlar va PDFlar orasidagi farqlar: [To‘liq tadqiqot](01-RESEARCH.md).
+Yangilangan: 2026-10-28. Bu qayta ishlatiladigan yo‘riqnoma; joriy bilet, bosqich yoki vaqt limiti bu faylda berilmagan. Haqiqiy topshiriq foydalanuvchidan olinadi. [Manba chegarasi](https://azizbeksafarov.github.io/ustoz/10-TASK-BOUNDARY.json) va [joriy qoidalar](https://azizbeksafarov.github.io/ustoz/08-CURRENT.md) bilan birga o‘qiladi.
 
 ## 1. Kim nima qiladi?
 
@@ -26,16 +20,16 @@ AI bilan ishlash videoda nazarda tutilgan. Boshqa insondan masofaviy yechim yoki
 
 ## 2. Tanlov kompyuteriga o‘tish
 
-Bugungi kompyuterdagi loyiha fayllari tanlov kompyuteriga avtomatik ko‘chmaydi. O‘sha kompyuterda ishlashim uchun kerakli loyiha papkasi Codexda ochilishi va fayllar shu yerda bo‘lishi kerak. Yangi chat ochilsa, quyidagi qisqa boshlang‘ich matn yetarli:
+Bugungi kompyuterdagi loyiha fayllari tanlov kompyuteriga avtomatik ko‘chmaydi. O‘sha kompyuterda ishlashim uchun kerakli loyiha papkasi Codexda ochilishi va fayllar shu yerda bo‘lishi kerak. Yangi chat ochilsa, to‘liq umumiy kontekstni va tanlangan dizayn paketini o‘qiting. Quyidagi matn faqat kirish yo‘li, hujjatlarning o‘rnini bosmaydi:
 
 **Yangi PCdagi amaliy ketma-ketlik:** Codexni ochish → tashkilotchi ruxsat etgan akkauntga kirish → foydalanish limitini tekshirish → yangi tanlov papkasini ochish → bilet va qisqa boshlang‘ich matnni berish. Shaxsiy akkaunt yoki faqat tashkilotchi ajratgan hisobdan foydalanish joydagi tartibga bog‘liq. Antigravity va Codex hisoblari hamda limitlari alohida aniqlanadi.
 
 
-Limitni tejash rejasi: tanlov uchun qisqa alohida chat; bilet va materiallar bir to‘plamda; bitta asosiy AI yozuvchi; kichik xatolar uchun butun loyihani qayta yaratmaslik; avval majburiy amallar; oddiy tahrirga ortiqcha uzoq tahlil sarflamaslik. Qolgan limit ikki soatga yetishini faqat foizdan kafolatlab bo‘lmaydi.
+Limitni tejash rejasi: tanlov uchun qisqa alohida chat; bilet va materiallar bir to‘plamda; bitta asosiy AI yozuvchi; kichik xatolar uchun butun loyihani qayta yaratmaslik; avval majburiy amallar; oddiy tahrirga ortiqcha uzoq tahlil sarflamaslik. Qolgan limitning haqiqiy ajratilgan vaqtga yetishini faqat foizdan kafolatlab bo‘lmaydi.
 
 ```text
 Biz Ustoz AI “Zamonaviy kasblar”, “Eng yaxshi veb-sayt” yo‘nalishidamiz.
-Viloyat bosqichi. Ish faqat tashkilotchi ruxsat etgan sharoitda bajariladi.
+Bosqichni taxmin qilma. Ish faqat tashkilotchi ruxsat etgan sharoitda bajariladi.
 Ballar: funksiya 30, mazmun 20, UX/UI 10, taqdimot 10,
 zamonaviy texnologiya 20, kreativlik 10.
 Mahalliy batafsil texnik mezonlar PDFi tasdiqqa taqdim etilgan loyiha edi;
@@ -59,20 +53,13 @@ Siz aniqlashtirgan ehtimoliy holat: shaxsiy akkauntga kirish taqiqlanadi va har 
 - Fayllar saqlanadi va sizga matn, rang, ma’lumot hamda oddiy validatsiya joylari ko‘rsatiladi. AI limiti tugashi saqlangan saytni yo‘q qilmaydi: uni brauzerda ishlatish va qo‘lda tahrirlash mumkin. O‘z saytini oddiy ishlatish AI so‘rovi emas; saytning o‘zi AI API chaqirsa, bu alohida masala.
 - Boshqa AI vositasiga o‘tish faqat joydagi ruxsat doirasida. Ajratilgan hisoblar juda cheklangan bo‘lsa, kam so‘rovli to‘liq mashq bizning ustuvor tayyorgarligimiz bo‘ladi.
 
-## 3. Dastlabki 15 daqiqa
+## 3. Yangi kompyuterdagi tayyorlik
 
-Videoda akkauntga kirish uchun 15 daqiqa berilishi aytilgan. Mashqda shu ketma-ketlikni sinaymiz:
+Tashkilotchi aytgan hisob va sozlanish tartibidan foydalaning. Tarixiy video ulash uchun 15 daqiqani aytgan; bu bugungi tasdiqlangan limit deb qabul qilinmaydi.
 
-| Daqiqa | Amal |
-|---|---|
-| 0–5 | Codexga ChatGPT akkaunti, ruxsat bo‘lsa Antigravityga yosh talabi mos Google akkaunti orqali kirish; autentifikatsiya muammosini aniqlash |
-| 5–8 | Loyiha papkasi va brauzerni ochish; ishlatish muhiti, fayl yozish va terminal imkoniyatini tekshirish |
-| 8–12 | Oddiy sinov sahifasini ishga tushirish; brauzerda ochilishini va bitta tugma ishlashini tekshirish |
-| 12–15 | Qolgan foydalanish limiti, loyiha saqlash va topshirish yo‘lini aniqlash; haqiqiy bilet uchun tayyor turish |
+Ruxsat etilgan akkauntga kirish → haqiqiy qolgan vaqt va foydalanish limitini ko‘rish → yangi loyiha papkasi → to‘liq kontekst va tanlangan source paketini olish → manifestni tekshirish → asl preview’ni ochish. Bu preview tanlov mavzusini belgilamaydi; demo yozuvlarini haqiqiy foydalanuvchi ma’lumoti deb olmang. Login/2FA va paket o‘rnatish imkoniyatini shu muhitda tekshiring.
 
-Sinov loyihasi mashq vositasi. Uni tanlov ishiga qo‘shish tasdiqlangan tartibga bog‘liq; mezonlar loyihasida qo‘shilmasligi aytilgan.
-
-Login va tasdiqlash imkoniyatini 12-oktabrgacha tekshirib olish foydali. Hisobga kirishda telefon yoki boshqa qurilma kerak bo‘lsa, foydalanish joydagi tartibga mos bo‘lishi kerak. Antigravityning rasmiy FAQida 18+ talabi bor; ikki ilovadan birini ishlata olmaslik loyihaning to‘xtab qolishiga sabab bo‘lmasligi uchun bir vosita bilan ham ishni tugatishni mashq qilamiz. [Google FAQ](https://antigravity.google/docs/faq), [Codex kirish va limitlar](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan).
+Bilet hali berilmagan bo‘lsa, uning o‘rniga sinov loyihasi yoki taxminiy vazifa yozmang. Faqat muhit va source tayyorligini tekshirish mumkin. Ruxsat bo‘yicha noaniqlikni amaldagi reglamentdan aniqlang.
 
 ## 4. Bilet kelishi bilan beriladigan so‘rov
 
@@ -111,39 +98,13 @@ Men “majburiy talab → amalga oshirilgan joy → qanday tekshiriladi” jadva
 
 Stackni brendi uchun tanlamaymiz. Talablar lokal saqlash bilan bajarilsa, `localStorage` qanday chegaraga egaligini himoyada ochiq aytamiz. Server kerak bo‘lsa, uni lokal saqlash bilan almashtirib, “to‘liq backend” deb ko‘rsatmaymiz.
 
-## 6. 120 daqiqalik mashq rejimi
+## 6. Rejani haqiqiy vaqtga moslash
 
-**Bu mashq ssenariysi. 13-oktabrdagi haqiqiy limit hali tasdiqlanmagan.** Taklif etilgan hujjatdagi 10/80/20/10 taqsimot asosida:
+Amaliy vaqt foydalanuvchi yoki joriy bilet/rasmiy ko‘rsatmadan olinadi. Uni oldindan raqam bilan to‘ldirmang. Qolgan vaqtni noma’lum bo‘lsa noma’lum deb yozing; timer avtomatik ishlayapti deb ko‘rsatmang.
 
-| Daqiqa | Ish | Yakundagi dalil |
-|---|---|---|
-| 0–10 | Bilet, majburiy amallar, kontent va topshirish; qisqa reja | Talablar jadvali va foydalanuvchi oqimi |
-| 10–25 | Ishga tushadigan asos, sahifalar/ekranlar va navigatsiya | Brauzerda ochilgan ishlaydigan loyiha |
-| 25–65 | Asosiy amallar, ma’lumot, forma/filtr, natija va kerakli saqlash | Har majburiy amal boshidan oxirigacha ishlaydi |
-| 65–90 | Mazmunni tekislash, mobil ko‘rinish, UI, bitta foydali kreativ detal | Biletga mos, ko‘rishga tayyor mahsulot |
-| 90–110 | Quyidagi sinovlar, xatolarni tuzatish | Bajarilgan sinov va ochiq cheklovlar qaydi |
-| 110–120 | Topshirish, loyiha nusxasi va qisqa tavsif; demo tayyorligi | Kelishilgan usulda ochiladigan yakuniy ish |
+Tartib: talab va qabul dalili → ishga tushadigan asos → bitta to‘liq majburiy oqim → qolgan majburiy amallar → mazmun/dizayn/mobil holat → xavfga mos tekshiruv va tuzatish → topshirish. Paket o‘rnatish, auth tasdig‘i, deploy va kutish ham amaliy vaqt sarflaydi. Topshirish va kerakli tekshiruvni oxirigacha surmang.
 
-Vaqt boshqa bo‘lsa, reja → yaratish → sinov → topshirish nisbatini moslaymiz. Oxirgi qismdagi topshirish va tekshiruv uchun vaqt saqlanadi. AI kutishi, paket o‘rnatilishi va odatiy xato tuzatish ham umumiy vaqtning ichida.
-
-Qisqa boshqaruv so‘rovlari:
-
-```text
-45 daqiqa qoldi. Biletdagi hali bajarilmagan majburiy amallarni yoz.
-Eng muhimini yakunla, so‘ng xato va mobil holatlarni tekshir.
-```
-
-```text
-20 daqiqa qoldi. Hozirgi ishlaydigan holatni saqla.
-Majburiy oqimlarni sinab ko‘r, faqat natijaga xalal berayotgan xatolarni tuzat.
-Topshirish yo‘riqnomasi va aniq cheklovlarni yoz.
-```
-
-```text
-10 daqiqa qoldi. Topshirishga tayyorla: havola yoki run buyrug‘i,
-manba fayllar, bajarilgan testlar, qisqa tavsif va talab qilingan dalillar.
-Sinab ko‘rilmagan narsani ishlaydi deb yozma.
-```
+Vaqt kamayganda haqiqiy ishlaydigan holatni saqlang, hali bajarilmagan majburiy talablarni ajrating va eng muhimini tugating. Yangi mavzu, ortiqcha dashboard yoki integratsiya ixtiro qilmang. Ishlamaydigan qismini tayyor deb taqdim etmang.
 
 ## 7. Amaliy sinov ro‘yxati
 
@@ -154,7 +115,7 @@ Sayt qurilganda mazmunli sinovlar o‘tkazamiz. Har bandning natijasi va ochiq x
 - Filtr/qidiruvda natija chiqishi va natija topilmasligi ishlaydi.
 - Saqlash talab qilingan bo‘lsa, yangilashdan keyingi holat tekshiriladi.
 - Menyu, havola, CTA, modal ochish/yopish va ortga qaytish ishlaydi.
-- 390, 768, 1366 px — mashqdagi uch ekran kengligi; kontent kesilmaydi va keraksiz yonlama surish yo‘q.
+- Tor telefon, planshet va desktop kengliklarida, uzun o‘zbekcha matn bilan; kontent kesilmaydi va keraksiz yonlama surish yo‘q.
 - Klaviatura bilan asosiy amal bajariladi, fokus ko‘rinadi, forma maydonlari nomlangan.
 - Matn, sana, nom va qiymatlar ekranlar bo‘ylab mos; vaqtinchalik matn qolmagan.
 - Rasm va boshqa resurslar ochiladi; konsolda muhim xato yo‘q.
@@ -176,7 +137,7 @@ Men loyiha qurilgach shu tahrirlar uchun aniq fayl va joyni ko‘rsataman. Bu sh
 
 ## 9. Topshirish uchun tayyorlik
 
-Joydagi yo‘riqnoma qaysi materialni talab qilsa, o‘shani topshiramiz. Mashqdagi paket:
+Joydagi yo‘riqnoma qaysi materialni talab qilsa, o‘shani topshiramiz. Tayyorlanadigan materiallar:
 
 - Ishlaydigan havola yoki mahalliy ishga tushirish usuli.
 - Tahrirlanadigan manba va kerakli assetlar; run buyrug‘i.
@@ -214,13 +175,6 @@ Mashqda javob beradigan savollar:
 
 Natijani va’da qilishdan ko‘ra dalil ko‘rsatamiz: ishlaydigan oqim, sinov va ochiq cheklov. Kichik tahrir talabi qo‘llansa, yuqoridagi mashq yordam beradi.
 
-## 11. 10–13-oktabr mashq jadvali
+## 11. Joriy topshiriqning yagona manbasi
 
-| Kun | Mashq | O‘lchanadigan natija |
-|---|---|---|
-| 10-oktabr | Birinchi 120 daqiqalik to‘liq mashq; masalan, yoshlar kurslari katalogi va ariza | 2 bog‘liq amal, mobil holat, xato tekshirish, topshirish |
-| 11-oktabr | Boshqa mavzu: masalan, Samarqand sayohat marshruti yoki hunarmandlar katalogi | Yangi biletga moslashish; bo‘sh natija, saqlash va resurs muammosi |
-| 12-oktabr | Login sinovi, 15 daqiqa himoya, 5 kichik tahrir, ishga tushirishni qaytarish | Akkaunt, run, tushuntirish va qo‘lda tahrir tayyorligi |
-| 13-oktabr | Haqiqiy bilet va joydagi limit asosida ish | Majburiy funksiyalar, tekshiruv, topshirish, himoya |
-
-Bu mavzular o‘zimiz tanlagan mashq misollari; tanlovning haqiqiy mavzusi oldindan aniqlanmagan. Mazkur tadqiqot davomida musobaqaga tayyor to‘liq loyiha qurilmadi. Keyingi mashqda shu tartibni amalda sinash mumkin.
+Bu yo‘riqnomada taxminiy bilet, mashq mavzusi yoki qat’iy mashq kalendari yo‘q. Biletni foydalanuvchi beradi; hozirgi topshiriq va qolgan vaqt faqat alohida loyiha CURRENT-TASK.md faylida qayd qilinadi. HANDOFF.md eski ishni tugallangan deb ko‘rsatmasin: aniq commit, o‘zgargan fayl, dalil va keyingi amal yozilsin. Ochiq .io’ga joriy tanlov ishi yoki xususiy mashq avtomatik yuborilmaydi.

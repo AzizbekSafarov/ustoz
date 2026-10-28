@@ -21,6 +21,7 @@ Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_
 ## Fayllar
 
 - **CONTEXT-STATUS.md** — tarixiy qaydlar, joriy topshiriq ustuvorligi va nusxalarning maqomi.
+- **10-TASK-BOUNDARY.json** — bu to‘plamda haqiqiy bilet yo‘qligi, namuna/demo bilan joriy topshiriq farqi. Haqiqiy biletni faqat foydalanuvchi beradi.
 
 - **00-START-HERE.md** — AI avval o‘qiydigan qisqa kontekst.
 - **01-RESEARCH.md** — to‘liq tadqiqot, manbalar va farqlar.
@@ -36,7 +37,7 @@ Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_
 
 ## Joriy yangilanish
 
-[08-CURRENT.md](08-CURRENT.md) va [09-CURRENT-FACTS.json](09-CURRENT-FACTS.json): nizom/PDF, baholash, himoya, amaliy vaqt, akkaunt va tayyor kod/backend ruxsatlari tekshiruvi. Eski 9-oktabr tadqiqoti to‘liq tarixiy saqlangan.
+[08-CURRENT.md](08-CURRENT.md) va [09-CURRENT-FACTS.json](09-CURRENT-FACTS.json): nizom/PDF, baholash, himoya, amaliy vaqt, akkaunt va tayyor kod/backend ruxsatlari tekshiruvi. Eski tadqiqot manbalari tarixiy maqomda; AI yozgan eskirgan mashq kalendari, tayyor daqiqalik buyruqlar va takroriy eski kirish matni amaldagi kontekstdan chiqarilgan. Asl 39 sahifalik nizomlar o‘zgartirilmagan.
 
 ## Ma’lumotlarni to‘g‘ri talqin qilish
 

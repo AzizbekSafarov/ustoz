@@ -542,6 +542,8 @@ maksimumidan, jami ball 100 dan oshmaydi. Bitta kamchilik ikki marta hisoblanmay
 
 [Asl sahifa](https://azizbeksafarov.github.io/ustoz/sources/Eng_yaxshi_veb_sayt_baholash_mezonlari.pdf#page=11)
 
+> MANBA IZOHI — JORIY BILET EMAS. Quyidagi sahifa tasdiqlanmagan loyiha hujjatidagi namunaviy topshiriq. Undagi mavzu, vaqt va T1–T4 sinovlari sizning tanlov vazifangiz emas; undan sayt qurishni boshlamang. Haqiqiy biletni foydalanuvchi alohida beradi. Asl sahifa matni quyida o‘zgartirilmagan.
+
 ```text
 2-ilova
 

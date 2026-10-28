@@ -69,6 +69,11 @@ def check():
     for code in ['1.1','1.2','1.3','1.4','2.1','2.2','2.3','2.4','3.1','3.2','3.3','4.1','4.2','4.3','5.1','5.2','5.3','5.4','6.1','6.2','6.3']:
         assert code in draft
     assert 'Bilet 001' in draft and all(f'T{n}' in draft for n in range(1,5))
+    assert 'MANBA IZOHI — JORIY BILET EMAS.' in draft
+    boundary=json.loads(read(ROOT/'10-TASK-BOUNDARY.json'))
+    assert boundary['current_ticket'] is None and boundary['authoritative_ticket_supplied'] is False
+    assert '10-TASK-BOUNDARY.json' in CONTEXT_FILES
+    assert 'transcripts/initial-brief-20261018.md' not in CONTEXT_FILES
 
     class Document(HTMLParser):
         def __init__(self):super().__init__();self.ids=[];self.links=[]
