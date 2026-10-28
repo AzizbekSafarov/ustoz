@@ -1,6 +1,6 @@
 # Ustoz AI — “Zamonaviy kasblar”: tadqiqot va Samarqand bosqichiga tayyorgarlik
 
-> JORIY YANGILANISH: [2026-10-28 tekshiruvi](08-CURRENT.md). Quyidagi 2026-10-09 qaydlari tarixiy; yangi statistika, sovrinlar va portal holati alohida manbada.
+> JORIY YANGILANISH: [2026-10-28 tekshiruvi](08-CURRENT.md). Quyidagi 2026-10-09 qaydlari tarixiy; joriy nizom, amaliy tartib va ruxsatlar alohida tekshiruvda. Eski statistika yoki reja yangi talab emas.
 
 > MAQOM: 2026-10-09 holatidagi tarixiy tadqiqot/tayyorgarlik qaydi. 13-oktabrga oid reja joriy sana, bosqich yoki natija deb olinmaydi. Hozirgi vazifa va reglament ustuvor. [Kontekst maqomi](https://azizbeksafarov.github.io/ustoz/CONTEXT-STATUS.md).
 

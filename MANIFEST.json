@@ -22,13 +22,13 @@
     },
     {
       "path": "01-RESEARCH.md",
-      "bytes": 23815,
-      "sha256": "95e9cafc8cfd7ed967fd3ad026151153ab2ac69117adb9616d41e0b1d2ed3eec"
+      "bytes": 23858,
+      "sha256": "4939d59b1fd6ba9a77dcdc04665f90ce18d7bd493df01532f3be2b2dd11b59b0"
     },
     {
       "path": "02-WORKFLOW.md",
-      "bytes": 15586,
-      "sha256": "4b54346631974cb82f2be701f5675f0176805695854caff056a7cf4a73ee4ba2"
+      "bytes": 15629,
+      "sha256": "28da9019029cb9498e1db01e11c9fe31ec3150839787b35aeba1b932ca011929"
     },
     {
       "path": "03-STATISTICS.csv",
@@ -37,8 +37,8 @@
     },
     {
       "path": "04-VIDEO-POSTER.md",
-      "bytes": 3379,
-      "sha256": "ff665f4109bfea2e81b77c74c614f8b069b29ad5fe1db469a2bb31335d730e06"
+      "bytes": 3422,
+      "sha256": "84aa48a4853108939d7ecc8adc7c060a480bce9b402ce954ca7800962f75fbda"
     },
     {
       "path": "05-SOURCES.md",
@@ -47,8 +47,8 @@
     },
     {
       "path": "06-SCORE-WORKPLAN.md",
-      "bytes": 5779,
-      "sha256": "f92dd5e2f05abb585fbe6b7b7cb8d2d6ba760b475c9b458de23745a32fcd1477"
+      "bytes": 5954,
+      "sha256": "69a83fa4798578ed182a9e0c5bfa32331501329fcc0e34dcba2aa749ba9f8765"
     },
     {
       "path": "07-FACTS.json",
@@ -67,23 +67,23 @@
     },
     {
       "path": "ai.html",
-      "bytes": 211172,
-      "sha256": "b5fa7e468faafeea1424a0fc6769479b9fe76ebe5cc9df70109510e1559943eb"
+      "bytes": 211511,
+      "sha256": "90116bc74c53c48d2283e5e0dea151ca0c85d7aa5757805e1e6593d218e28b2a"
     },
     {
       "path": "ai.md",
-      "bytes": 202970,
-      "sha256": "f3d95251e2b1c051f147a4cea3d3cf6a783dd1178f7c552e6298b09fe23deb16"
+      "bytes": 203309,
+      "sha256": "ee36d03cf6ef126a53f9d2904ebaad0e3bd87216ed29ab9cdf822f06e7b355d5"
     },
     {
       "path": "build_transcripts.py",
-      "bytes": 17115,
-      "sha256": "5b5d191db975bb057db8cf96015f932f9a40e7d51b25199911cb2473548ff998"
+      "bytes": 17130,
+      "sha256": "910f829fb97ae34fc620b4d4b1169480ac58911f835967410348afe879799972"
     },
     {
       "path": "CONTEXT-STATUS.md",
-      "bytes": 3222,
-      "sha256": "95850e902b7e65d11a13bfd872d66f628c36a5fc97fbebf572d2a531f2a04b3c"
+      "bytes": 3300,
+      "sha256": "9fa0df1fd597d44dbf18ae02a61cf32b47107523eff2ee518f6c294ff6760cc7"
     },
     {
       "path": "index.html",
@@ -92,18 +92,18 @@
     },
     {
       "path": "nizom.html",
-      "bytes": 129284,
-      "sha256": "91a095b2951173c74d15a5c92944ca385b7ff467fe01c8e179912634d470ae32"
+      "bytes": 129280,
+      "sha256": "5322e7702da413ca4f4753a0278053c151bc445b25538b19f86cddfa4419896f"
     },
     {
       "path": "nizom.md",
-      "bytes": 117630,
-      "sha256": "050c6302e57e14ef6901870456cf191fc7b23ffef3220678ef38497d170f7a89"
+      "bytes": 117626,
+      "sha256": "9a7dd40a059eb1fb3fa0b10ebf8e83bce3f0848126fe4587494ecd92a62ee949"
     },
     {
       "path": "nizom.txt",
-      "bytes": 116435,
-      "sha256": "7150d9c2af1ce69c188f5ccdd1e649b0c754e1936f7d591440018e1e7aac7642"
+      "bytes": 116431,
+      "sha256": "d6a3c4823d4f22c7d37cd9296d4b830d3d34e05e5ef5c8787051d1523af5a0b0"
     },
     {
       "path": "README.md",

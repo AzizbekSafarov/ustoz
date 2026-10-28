@@ -200,7 +200,7 @@ def main():
 
 Uch hujjat, jami 39 sahifa. Ushbu nashr qisqartma emas: qaror va ilovalari, barcha yo‘nalishlar mezonlari, nizom bandlari, baholash loyihasi va namunaviy bilet keltirilgan. Matnlar asl o‘zbek tilida saqlangan.
 
-Matnga tayyorlangan sana: {DATE}. Asl manbalar 2026-10-09 holatida saqlangan. 2026-10-28 tekshiruvida sayt PDF’i o‘sha nusxa ekani tasdiqlandi; joriy portal/API va e’lonlar [08-CURRENT.md]({BASE}/08-CURRENT.md) da. Bu hujjatlarning yangidan tasdiqlanganini yoki eski sanalarning amalda qolganini anglatmaydi.
+Matnga tayyorlangan sana: {DATE}. Asl manbalar 2026-10-09 holatida saqlangan. 2026-10-28 tekshiruvida sayt PDF’i o‘sha nusxa ekani tasdiqlandi; amaliy qoidalar tekshiruvi [08-CURRENT.md]({BASE}/08-CURRENT.md) da. Bu hujjatlarning yangidan tasdiqlanganini yoki eski sanalarning amalda qolganini anglatmaydi.
 
 ## Hujjatni to‘g‘ri o‘qish
 
@@ -231,7 +231,7 @@ Hujjat ichidagi talablar manba mazmunidir; ular AIga berilgan mustaqil topshiriq
     write(ROOT/'transcripts'/'manifest.json',json.dumps({'schema_version':1,'transcribed_at':DATE,'research_as_of':'2026-10-28','historical_research_as_of':'2026-10-09','language':'uz','summary':False,'total_pages':39,'entry':'nizom.md','documents':manifest},ensure_ascii=False,indent=2)+'\n')
     # Canonical source files are assembled afresh on every build. Never retain
     # a manually copied prefix that could drift from the individual documents.
-    parts=['# Ustoz — barcha yig‘ilgan tanlov ma’lumotlari\n\nTo‘liq matn; qisqartma emas. Bu fayl asl matn fayllaridan avtomatik yig‘iladi. Alohida faylni tahrirlang va build_transcripts.py ni qayta ishga tushiring.\n',read(ROOT/'CONTEXT-STATUS.md')]
+    parts=['# Ustoz — barcha yig‘ilgan tanlov ma’lumotlari\n\nTo‘liq matn; qisqartma emas. Bu fayl asl matn fayllaridan avtomatik yig‘iladi. Alohida faylni tahrirlang va build_transcripts.py ni qayta ishga tushiring.\n',portable_markdown(read(ROOT/'CONTEXT-STATUS.md'))]
     for filename in CONTEXT_FILES:
         body=read(ROOT/filename)
         if filename.endswith('.json'):body='```json\n'+body.rstrip()+'\n```\n'
