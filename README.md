@@ -36,7 +36,7 @@ Qayta yaratish: `python -B build_transcripts.py`. Tekshirish: `python -B verify_
 
 ## Joriy yangilanish
 
-[08-CURRENT.md](08-CURRENT.md) va [09-CURRENT-FACTS.json](09-CURRENT-FACTS.json): yangi portal/backend, 21 020 ariza, natija yozuvlari, rasmiy 75/50 mln sovrinlar va PDF qayta tekshiruvi. Eski 9-oktabr tadqiqoti to‘liq tarixiy saqlangan.
+[08-CURRENT.md](08-CURRENT.md) va [09-CURRENT-FACTS.json](09-CURRENT-FACTS.json): nizom/PDF, baholash, himoya, amaliy vaqt, akkaunt va tayyor kod/backend ruxsatlari tekshiruvi. Eski 9-oktabr tadqiqoti to‘liq tarixiy saqlangan.
 
 ## Ma’lumotlarni to‘g‘ri talqin qilish
 

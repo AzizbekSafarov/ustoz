@@ -94,8 +94,8 @@ def check():
     assert manifest['research_as_of']=='2026-10-28'
     assert manifest['historical_research_as_of']=='2026-10-09'
     latest=json.loads(read(ROOT/'09-CURRENT-FACTS.json'))
-    assert latest['scope']=='current_public_source_snapshot'
-    assert latest['registration_counts']['total']==sum(latest['registration_counts'][key] for key in ('web','design','mobile'))
+    assert latest['scope']=='current_rules_review'
+    assert latest['portal_explanatory_copy']['criteria_count']==6 and latest['portal_explanatory_copy']['total_points']==100
     assert '08-CURRENT.md' in CONTEXT_FILES and '09-CURRENT-FACTS.json' in CONTEXT_FILES
     assert latest['regulations']['site_pdf_sha256']==PDF_HASHES['ustoz-ai-saytdagi-nizom.pdf']
     for record in manifest['files']:
