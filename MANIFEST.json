@@ -72,18 +72,18 @@
     },
     {
       "path": "ai.html",
-      "bytes": 208560,
-      "sha256": "67a3942e29f95bf75246e2cb4951152c3cbae9c0e5ecb6db668a8c601927794d"
+      "bytes": 209473,
+      "sha256": "f824d907980ed2b10dc9b8fe4fa9803f08c75bbffb0377920277a777258698ca"
     },
     {
       "path": "ai.md",
-      "bytes": 199832,
-      "sha256": "a01c5fd806b9f5ce3c77ec00ba573dce61bc6b24b30b8fd43b90eb709a7e5db9"
+      "bytes": 200750,
+      "sha256": "0eb73225213e0eccc5aaa69be27d00d7c6b64bee5f4fb265e30bee90f06abdcc"
     },
     {
       "path": "build_transcripts.py",
-      "bytes": 18017,
-      "sha256": "5fb12e78c39cfdc181ff5116f615aa4738c65cb9bfe2aada9a637698d444b889"
+      "bytes": 18903,
+      "sha256": "77cffb5520e47cdcafeef4b9940d33fd68808acb71c956a3481712f1550d851b"
     },
     {
       "path": "CONTEXT-STATUS.md",
@@ -97,18 +97,18 @@
     },
     {
       "path": "nizom.html",
-      "bytes": 129950,
-      "sha256": "bf433db91dc581bb16301f492f896d8e323fc8b198bd0765d1d42b1c7b6a6820"
+      "bytes": 130971,
+      "sha256": "5c2d841ac9ff7465b4be97ee0976a2a80c2386bd1074af682d654e0807002812"
     },
     {
       "path": "nizom.md",
-      "bytes": 118270,
-      "sha256": "6d0abf160a76c8d40820b84bdb37c3b3b33990320168a828cf603eb8ccff8698"
+      "bytes": 119188,
+      "sha256": "46eed7a693766f1de875b99ba99ec97de138b75545b3d02ce6ccf2b7859732b5"
     },
     {
       "path": "nizom.txt",
-      "bytes": 117075,
-      "sha256": "36caf0921def5a8596e0d4956e437f2eade815df39912b9cd3469fbe8f9898ad"
+      "bytes": 117993,
+      "sha256": "0e9c3d1ed56a496b63753feb01fdf9c870a152680e7d19167d9907bb8441fddd"
     },
     {
       "path": "README.md",
@@ -173,7 +173,7 @@
     {
       "path": "transcripts/manifest.json",
       "bytes": 3318,
-      "sha256": "49e040bcbda172547425c51e9f1368696847066850883cc60d888dd4310980a9"
+      "sha256": "2c6b798e090e79831a1fb4c3d0985a2f27c3cc08c54f6fd044dcce33c29f3e49"
     },
     {
       "path": "transcripts/mezon.html",
@@ -187,23 +187,23 @@
     },
     {
       "path": "transcripts/qaror-edits.json",
-      "bytes": 5351,
-      "sha256": "0a35b13ce67c789a38a51cfb1ee956187bbdb8525e10a515ab9a6cdf5f1d7aed"
+      "bytes": 6264,
+      "sha256": "f99727672dd366dc307513b1f7c106a7d56ae44a263dc71361e60fc2814f9cea"
     },
     {
       "path": "transcripts/qaror-tables.json",
-      "bytes": 12855,
-      "sha256": "4acd7d57e7d35dd01c9a0f12d4c42a2beed3f0e60db36d2349befb3f22fbfa8a"
+      "bytes": 13469,
+      "sha256": "f104a944feff98b2837fe6e58fb1c63a8aab3dba5d5782830d9f18637e9d1d14"
     },
     {
       "path": "transcripts/qaror.html",
-      "bytes": 52411,
-      "sha256": "9e427252b4070c0c7fd73bce6700ff4cc1cee04919e79823ce1470209b2ea1bc"
+      "bytes": 53407,
+      "sha256": "5edaa01e166bfcdc229c777126c3506622b1e37bb8c4c20d9e97d7c4207a9967"
     },
     {
       "path": "transcripts/qaror.md",
-      "bytes": 43773,
-      "sha256": "879678e5e3b354a43006e87a7bcdf82bc1ec56fa530c2ba3148eae4a3494496e"
+      "bytes": 44666,
+      "sha256": "3b0aacb02983abb3bc1b6f7fc811f7e2c51c4d776e2f6bc87e9a60ff190d1460"
     },
     {
       "path": "transcripts/sayt-layout.json",

@@ -21,6 +21,12 @@
       "count": 1
     },
     {
+      "page": 1,
+      "from": "tarkibi I-ilovaga",
+      "to": "tarkibi 1-ilovaga",
+      "count": 1
+    },
+    {
       "page": 2,
       "from": "ta'lim Olish",
       "to": "ta'lim olish",
@@ -57,6 +63,12 @@
       "count": 1
     },
     {
+      "page": 2,
+      "from": "' 'Besh tashabbus",
+      "to": "\"Besh tashabbus",
+      "count": 1
+    },
+    {
       "page": 3,
       "from": "sertifikat Olgan",
       "to": "sertifikat olgan",
@@ -81,6 +93,12 @@
       "count": 1
     },
     {
+      "page": 4,
+      "from": "bog' liq",
+      "to": "bog'liq",
+      "count": 1
+    },
+    {
       "page": 7,
       "from": "qo' Ilab",
       "to": "qo'llab",
@@ -91,6 +109,12 @@
       "from": "sertifikat Olgan",
       "to": "sertifikat olgan",
       "count": 3
+    },
+    {
+      "page": 9,
+      "from": "yo' nalishi",
+      "to": "yo'nalishi",
+      "count": 1
     },
     {
       "page": 9,
@@ -111,6 +135,12 @@
       "count": 1
     },
     {
+      "page": 10,
+      "from": "ishi yo'nalishida\nmobil suratga",
+      "to": "ishi yo'nalishida —\nmobil suratga",
+      "count": 1
+    },
+    {
       "page": 11,
       "from": "g' olib",
       "to": "g'olib",
@@ -120,6 +150,12 @@
       "page": 11,
       "from": "e' Ion",
       "to": "e'lon",
+      "count": 1
+    },
+    {
+      "page": 11,
+      "from": "aniqlanganda\no'tmaganligi",
+      "to": "aniqlanganda —\no'tmaganligi",
       "count": 1
     },
     {
@@ -222,6 +258,18 @@
       "page": 16,
       "from": "I-o'rin",
       "to": "1-o'rin",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "to 'plagan",
+      "to": "to'plagan",
+      "count": 1
+    },
+    {
+      "page": 16,
+      "from": "hay' ati",
+      "to": "hay'ati",
       "count": 1
     },
     {
