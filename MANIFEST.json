@@ -22,13 +22,13 @@
     },
     {
       "path": "01-RESEARCH.md",
-      "bytes": 23540,
-      "sha256": "1d4426fcae37762feb01b0849532505dfa59a278ed52fe329c624bb722be8203"
+      "bytes": 23770,
+      "sha256": "9bffc0c2eebf723acb50dabb5a6e702e9a037a6cfb5ea091c142a6ba423df547"
     },
     {
       "path": "02-WORKFLOW.md",
-      "bytes": 13544,
-      "sha256": "27d809f9b36b62d709d115ac9ae3cc9ec23fe695d5a303f4e789215948889522"
+      "bytes": 13609,
+      "sha256": "5132c927374ac9a067839cb26a87e95bedfea30cadc8dd6f855fa52cd38948a6"
     },
     {
       "path": "03-STATISTICS.csv",
@@ -67,18 +67,18 @@
     },
     {
       "path": "10-TASK-BOUNDARY.json",
-      "bytes": 3044,
-      "sha256": "6f08fbf18e2cf75ea0cf75d20f657e9ff0bf6f59f114cc9c3b117f01955bc83c"
+      "bytes": 3388,
+      "sha256": "f073ea8e1edb28b02ce2612949d25dd0b583fc6a85c97a41c504ca9aaba2b2ee"
     },
     {
       "path": "ai.html",
-      "bytes": 213871,
-      "sha256": "7ec1dbed8334e792ef676726bba24fa325549ef9a0dbe430efb5b735d1ec9e5a"
+      "bytes": 214533,
+      "sha256": "653749b8af61aace921ba02954269bed69b29f4c342e88b87ef0712a27b62ae3"
     },
     {
       "path": "ai.md",
-      "bytes": 205148,
-      "sha256": "f5b324117cc73c03dd605ae26ce5848fed651af47fdf582f549ee18e45ea5b7b"
+      "bytes": 205787,
+      "sha256": "3ff8c0c58f4f975793177f112d93a8c46e3f2c298d2bbac219a793f45f2bf290"
     },
     {
       "path": "build_transcripts.py",

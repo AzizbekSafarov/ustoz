@@ -35,7 +35,7 @@ zamonaviy texnologiya 20, kreativlik 10.
 Mahalliy batafsil texnik mezonlar PDFi tasdiqqa taqdim etilgan loyiha edi;
 hozir berilgan bilet va reglamentga amal qil.
 Sen asosiy kod yozuvchi va tekshiruvchi, men vazifa va himoyani boshqaraman.
-Avval majburiy ishlaydigan amallar, keyin dizayn va foydali kreativ detal.
+Majburiy amallar bilan o‘qilish, navigatsiya va dizayn yaxlitligini birga qur. Keyin ixtiyoriy sayqal va foydali kreativ detal.
 Haqiqiy bilet berilgan bo‘lsa, mavjud fayllarni o‘qi, reja tuz va ishni boshlagin.
 Bilet hali berilmagan bo‘lsa uni so‘ra; demo yoki manba namunasidan vazifa chiqarma.
 Har muhim bosqichda ishlaydigan holat va qolgan ishni qisqa ayt.
@@ -103,7 +103,7 @@ Stackni brendi uchun tanlamaymiz. Talablar lokal saqlash bilan bajarilsa, `local
 
 Amaliy vaqt foydalanuvchi yoki joriy bilet/rasmiy ko‘rsatmadan olinadi. Uni oldindan raqam bilan to‘ldirmang. Qolgan vaqtni noma’lum bo‘lsa noma’lum deb yozing; timer avtomatik ishlayapti deb ko‘rsatmang.
 
-Tartib: talab va qabul dalili → ishga tushadigan asos → bitta to‘liq majburiy oqim → qolgan majburiy amallar → mazmun/dizayn/mobil holat → xavfga mos tekshiruv va tuzatish → topshirish. Paket o‘rnatish, auth tasdig‘i, deploy va kutish ham amaliy vaqt sarflaydi. Topshirish va kerakli tekshiruvni oxirigacha surmang.
+Tartib: talab va qabul dalili → ishga tushadigan asos → bitta to‘liq majburiy oqim → qolgan majburiy amallar va ularga mos mazmun/dizayn/mobil holat → xavfga mos tekshiruv va tuzatish → topshirish. Paket o‘rnatish, auth tasdig‘i, deploy va kutish ham amaliy vaqt sarflaydi. Topshirish va kerakli tekshiruvni oxirigacha surmang.
 
 Vaqt kamayganda haqiqiy ishlaydigan holatni saqlang, hali bajarilmagan majburiy talablarni ajrating va eng muhimini tugating. Yangi mavzu, ortiqcha dashboard yoki integratsiya ixtiro qilmang. Ishlamaydigan qismini tayyor deb taqdim etmang.
 

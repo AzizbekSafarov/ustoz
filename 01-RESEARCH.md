@@ -117,6 +117,8 @@ Asos: [Qaror](sources/34-19-q-q.pdf), 14–15-betlar. Sayt nusxasidagi tartib fa
 
 **Funksionallik 30 + mazmun 20 + texnologiya 20 = 70 ball.** Bizning vaqt taqsimotimiz avval shu uch qismni ishonchli qiladi; keyin dizayn va foydali kreativ detalni tugatadi. Bu bizning tayyorgarlik strategiyamiz.
 
+> Tarixiy strategiya, hozirgi buyruq emas. 2026-11-02 talqini: ball vazni vaqt taqsimoti emas; o‘qilish, navigatsiya va dizayn asosiy oqim bilan birga quriladi. Joriy usul 06-SCORE-WORKPLAN.md da.
+
 ### Loyihadagi 21 ko‘rsatkich — mashq uchun batafsil chek-list
 
 Quyidagi kichik ballar tasdiqqa taqdim etilgan 11 betlik hujjatdan; amaldagi ekspert varaqasi ekanligi tasdiqlanmadi.
@@ -223,7 +225,7 @@ Agregat sonlarning qayta foydalaniladigan nusxasi: [Statistika CSV](03-STATISTIC
 
 Mahalliy rasmiy aloqa manbasi: [SAMARQANDLIK YOSHLAR — @yiasamyosh](https://t.me/yiasamyosh), kanal ko‘rsatgan [@samyoshbot](https://t.me/samyoshbot). Respublika Yoshlar ishlari agentligi aloqa sahifasi: [rasmiy kontaktlar](https://gov.uz/oz/yoshlar/contacts).
 
-Kerak bo‘lsa tashkilotchiga yuborish uchun tayyor matn, **hali yuborilmagan**:
+Bu tarixiy qaydda tashkilotchiga xabar yuborilmagan; joriy aloqa zarurati foydalanuvchi tomonidan belgilanadi.
 
 
 ## 11. Xalqaro AI xizmatlari: tanlovdan oldin nima tayyor bo‘lishi kerak?
