@@ -47,8 +47,8 @@
     },
     {
       "path": "06-SCORE-WORKPLAN.md",
-      "bytes": 8373,
-      "sha256": "7567762cac1498dc7309e864f91376f17bb925a6dcdb44e5941d0a1989591834"
+      "bytes": 10069,
+      "sha256": "eb8cf2ffc12ade430a24e0058d3435bcb3b6ef5ccacefb9293418acf0ac7fcd5"
     },
     {
       "path": "07-FACTS.json",
@@ -72,13 +72,13 @@
     },
     {
       "path": "ai.html",
-      "bytes": 214533,
-      "sha256": "653749b8af61aace921ba02954269bed69b29f4c342e88b87ef0712a27b62ae3"
+      "bytes": 216229,
+      "sha256": "ee91fb450e78ae7d6bac29f3fbd43b20d2c185a690234bc3d42d61ded5f891ab"
     },
     {
       "path": "ai.md",
-      "bytes": 205787,
-      "sha256": "3ff8c0c58f4f975793177f112d93a8c46e3f2c298d2bbac219a793f45f2bf290"
+      "bytes": 207483,
+      "sha256": "cd149fa03cac522b2e164b97f8990e7b899fc750b5432986a035ab8d1d79049d"
     },
     {
       "path": "build_transcripts.py",
