@@ -96,7 +96,7 @@ def check():
                 other=Document();other.feed(read(target));assert parts.fragment in other.ids,(f.name,link)
             checked+=1
     manifest=json.loads(read(ROOT/'MANIFEST.json'))
-    assert manifest['research_as_of']=='2026-10-28'
+    assert manifest['research_as_of']=='2026-11-10'
     assert manifest['historical_research_as_of']=='2026-10-09'
     latest=json.loads(read(ROOT/'09-CURRENT-FACTS.json'))
     assert latest['scope']=='current_rules_review'
